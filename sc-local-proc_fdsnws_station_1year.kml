@@ -1,0 +1,5090 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Inventory</name>
+    <Style id="station_0">
+      <IconStyle>
+        <color>ffe3cea6</color>
+        <scale>1.5</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+        </Icon>
+        <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffe3cea6</color>
+        <scale>1.0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="station_1">
+      <IconStyle>
+        <color>ffbb8533</color>
+        <scale>1.5</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+        </Icon>
+        <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffbb8533</color>
+        <scale>1.0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="station_2">
+      <IconStyle>
+        <color>ff96bf84</color>
+        <scale>1.5</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+        </Icon>
+        <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff96bf84</color>
+        <scale>1.0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="station_3">
+      <IconStyle>
+        <color>ff57bd6d</color>
+        <scale>1.5</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+        </Icon>
+        <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff57bd6d</color>
+        <scale>1.0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="station_4">
+      <IconStyle>
+        <color>ff559d7f</color>
+        <scale>1.5</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+        </Icon>
+        <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff559d7f</color>
+        <scale>1.0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="station_5">
+      <IconStyle>
+        <color>ff7c7cf5</color>
+        <scale>1.5</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+        </Icon>
+        <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff7c7cf5</color>
+        <scale>1.0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="station_6">
+      <IconStyle>
+        <color>ff2226e5</color>
+        <scale>1.5</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+        </Icon>
+        <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff2226e5</color>
+        <scale>1.0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="station_7">
+      <IconStyle>
+        <color>ff68b2fb</color>
+        <scale>1.5</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+        </Icon>
+        <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff68b2fb</color>
+        <scale>1.0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="station_8">
+      <IconStyle>
+        <color>ff198dfe</color>
+        <scale>1.5</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+        </Icon>
+        <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff198dfe</color>
+        <scale>1.0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="station_9">
+      <IconStyle>
+        <color>ff839ede</color>
+        <scale>1.5</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+        </Icon>
+        <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff839ede</color>
+        <scale>1.0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="station_10">
+      <IconStyle>
+        <color>ffba7c9d</color>
+        <scale>1.5</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+        </Icon>
+        <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffba7c9d</color>
+        <scale>1.0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="station_11">
+      <IconStyle>
+        <color>ff997897</color>
+        <scale>1.5</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+        </Icon>
+        <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff997897</color>
+        <scale>1.0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="station_12">
+      <IconStyle>
+        <color>ff87e5f3</color>
+        <scale>1.5</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+        </Icon>
+        <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff87e5f3</color>
+        <scale>1.0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="station_13">
+      <IconStyle>
+        <color>ff2859b1</color>
+        <scale>1.5</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+        </Icon>
+        <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff2859b1</color>
+        <scale>1.0</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>NU</name>
+      <open>1</open>
+      <description>Network NU (Nicaraguan Seismic Network)
+	Station Count: None/None (Selected/Total)
+	1980-01-01T00:00:00.000000Z - --
+	Access: open
+	Contains:
+		Stations (100):
+			NU.ALLN (SMA Telcor Managua, Nicaragua)
+			NU.ABCN (SMA Banco Central, Nicaragua)
+			NU.SBEN (SMA San Benito, Nicaragua)
+			NU.ACSN (SMA Ciudad Sandino, Nicaragua)
+			NU.ACBN (SMA Campo Bello, Nicaragua)
+			NU.BC84 (SMA Volcan Momotombo, Nicaragua)
+			NU.BC86 (SMA Nagarote, Nicaragua)
+			NU.BC87 (SMA San Francisco Libre, Nicaragua)
+			NU.BC8A (SMA INETER, Nicaragua)
+			NU.GRNN (SMA Granada, Nicaragua)
+			NU.AERN (SMA Aeropuerto Managua, Nicaragua)
+			NU.ENAN (SMA ENATREL Managua, Nicaragua)
+			NU.AMTN (SMA Mateare, Nicaragua)
+			NU.XILN (SMA Xiloa, Nicaragua)
+			NU.ADRN (SMA Diriamba, Nicaragua)
+			NU.CHNN (SMA Chinadega, Nnicaragua)
+			NU.AMYN (SMA CODE Masaya, Nicaragua)
+			NU.ALEN (SMA Leon, Nicaragua)
+			NU.CPAN (SMA Conchita Palacios, Nicaragua)
+			NU.TIPN (SMA Tipitapa, Nicaragua)
+			NU.MAFN (SMA MAGFOR Managua, Nicaragua)
+			NU.ARIN (SMA Rivas, Nicaragua)
+			NU.DECN (SMA CODE-SINAPRED Managua, Nicaragua)
+			NU.AZCN (Norte del Volcan Masaya)
+			NU.HB11 (Al NO del Volcan Momotombo)
+			NU.MOM3 (MOM3)
+			NU.MSHP (Al O del Volcan Concepcion)
+			NU.PLRN (Al O del Volcan Concepcion)
+			NU.SABN (Asentamiento de Miramar)
+			NU.APQ2 (Apoyeque, Nicaragua)
+			NU.APQ3 (Volcan Apoyeque sitio 3, Nicaragua)
+			NU.APQ4 (Volcan Apoyeque sitio 4, Nicaragua)
+			NU.APQ5 (Volcan Apoyeque sitio 5, Nicaragua)
+			NU.APYN (Volcan Apoyeque)
+			NU.BRAN (ENATREL Los Brasiles)
+			NU.CNGA (Al SSO del Volcan Cerro Negro)
+			NU.CONN (Central Sismica - INETER)
+			NU.COPN (Copaltepe)
+			NU.CRUN (El Crucero)
+			NU.HM03 (Oeste Volcan Momotombo)
+			NU.HOYN (Al Sur del Volcan Telica)
+			NU.ILCN (San Idelfonso, Volcan Cerro Negro)
+			NU.JAPN (Al SSO del Volcan Masaya)
+			NU.MAFN (Magfor)
+			NU.MAS3 (Al N del Volcan Masaya)
+			NU.MIRN (Asentamiento de Miramar)
+			NU.MOM1 (Volcan Momotombo, Nicaragua)
+			NU.MOMN (al SSO del Volcan Momtombo)
+			NU.MORN (Al O del Volcan Concepcion)
+			NU.NADN (ENATREL Nandaime)
+			NU.OCON (Estacion meteorologica de Ocatal)
+			NU.OMEN (Al SSO del Volcan Concepcion)
+			NU.PACN (Al O del Volcan Cerro Negro)
+			NU.POLN (Al Sur del Volcan Telica)
+			NU.POZN (Al N del Volcan Momotombo)
+			NU.QUEN (Al S del Volcan Telica)
+			NU.RCFN (Al S de San Juan del Rio Coco)
+			NU.RCPN (Sur Rio San Juan del Rio Coco)
+			NU.TEL3 (Al SSE del Volcan Telica)
+			NU.TELN (Al E del Volcan Telica)
+			NU.TISN (Estado Mayor, Ejercito Nacional)
+			NU.WILN (Casa de Wilfried Americas Dos, Nicaragua)
+			NU.INE2 (INETER, Estacion de Prueba)
+			NU.SAPN (BB Ciudad Sandino San Andres de las Palancas, Nicaragua)
+			NU.PMON (Puerto Morazan)
+			NU.ALTN (Altagracia, Isla de ometepe)
+			NU.ACON (Acoyapa, Nicaragua)
+			NU.APQN (BB Volcan Apoyeque, Nicaragua)
+			NU.BLUN (Bluefields, Entresa, Nicaragua)
+			NU.CNGN (Volcan Cerro Negro, Nicaragua)
+			NU.CRIN (volcan San Cristobal, Nicaragua)
+			NU.CSAN (BB Ciudad Sandino, Nicaragua)
+			NU.ESPN (Las Esperanzas, Nicaragua)
+			NU.ESTN (Esteli, Nicaragua)
+			NU.HERN (Volcan Telica, Nicaragua)
+			NU.HUEN (BB Puenta Huete, Nicaragua)
+			NU.MATN (Matagalpa City, Nicaragua)
+			NU.MGAN (Managua, Nicaragua)
+			NU.NANN (Nandasmo, Nicaragua)
+			NU.RCON (San Jose del Ojoche, San Juan de Rio Coco, Nicaragua)
+			NU.SOMN (Somoto, Nicaragua)
+			NU.CSGN (COSIGUINA)
+			NU.RCVN (varillal2)
+			NU.ROCN (ROTA CERRO NEGRO)
+			NU.USIN (SMA UNAN Managua)
+			NU.AESN (EL SAUCE LEON)
+			NU.AAHN (Alcaldia de Achuapa)
+			NU.PLMN (La Palma, Nicaragua)
+			NU.LIMN (Finca el Limon)
+			NU.MASN (Volcan Masaya, Nicaragua)
+			NU.SIUN (SIUNA)
+			NU.UBNT (Urbait 2, Isla de Ometepe)
+			NU.MOM2 (El cardon, Momotombo, NIcaragua)
+			NU.SIX1 (Esquipula temporal)
+			NU.SIX9 (Prueba central sismica)
+			NU.SIXTM (Santiago Volcan (SANN))
+			NU.ICAN (Isla Campuzano)
+			NU.SJON (San Jose del Obraje)
+			NU.MAC2 (El Madrono, SAT Cerro Negro 2)
+			NU.MACN (El Madrono, SAT Cerro Negro)
+		Channels (393):
+			NU.ALLN..HNE, NU.ALLN..HNN, NU.ALLN..HNZ, NU.ABCN..HNE,
+			NU.ABCN..HNN, NU.ABCN..HNZ, NU.SBEN..HNE, NU.SBEN..HNN,
+			NU.SBEN..HNZ, NU.ACSN..HNE, NU.ACSN..HNN, NU.ACSN..HNZ,
+			NU.ACBN..HNE, NU.ACBN..HNN, NU.ACBN..HNZ, NU.BC84..HNE,
+			NU.BC84..HNN, NU.BC84..HNZ, NU.BC86..HNE, NU.BC86..HNN,
+			NU.BC86..HNZ, NU.BC87..HNE, NU.BC87..HNN, NU.BC87..HNZ,
+			NU.BC8A..HNE, NU.BC8A..HNN, NU.BC8A..HNZ, NU.GRNN..HNE,
+			NU.GRNN..HNN, NU.GRNN..HNZ, NU.AERN..HNE, NU.AERN..HNN,
+			NU.AERN..HNZ, NU.ENAN..HNE, NU.ENAN..HNN, NU.ENAN..HNZ,
+			NU.AMTN..HNE, NU.AMTN..HNN, NU.AMTN..HNZ, NU.XILN..HNE,
+			NU.XILN..HNN, NU.XILN..HNZ, NU.ADRN..HNE, NU.ADRN..HNN,
+			NU.ADRN..HNZ, NU.CHNN..HNE, NU.CHNN..HNN, NU.CHNN..HNZ,
+			NU.AMYN..HNE, NU.AMYN..HNN, NU.AMYN..HNZ, NU.ALEN..HNE,
+			NU.ALEN..HNN, NU.ALEN..HNZ, NU.CPAN..HNE, NU.CPAN..HNN,
+			NU.CPAN..HNZ, NU.TIPN..HNE, NU.TIPN..HNN, NU.TIPN..HNZ,
+			NU.MAFN..HNE, NU.MAFN..HNN, NU.MAFN..HNZ, NU.ARIN..HNE,
+			NU.ARIN..HNN, NU.ARIN..HNZ, NU.DECN..HNE, NU.DECN..HNN,
+			NU.DECN..HNZ, NU.AZCN..EHE, NU.AZCN..EHN, NU.AZCN..EHZ,
+			NU.HB11..EHE, NU.HB11..EHN, NU.HB11..EHZ, NU.MOM3.00.EHE,
+			NU.MOM3.00.EHN, NU.MOM3.00.EHZ, NU.MSHP.00.EHE, NU.MSHP.00.EHN,
+			NU.MSHP.00.EHZ, NU.PLRN.00.EHE, NU.PLRN.00.EHN, NU.PLRN.00.EHZ,
+			NU.SABN.00.EHZ, NU.APQ2.00.EHE, NU.APQ2.00.EHN, NU.APQ2.00.EHZ,
+			NU.APQ3.00.EHE, NU.APQ3.00.EHN, NU.APQ3.00.EHZ, NU.APQ4.00.EHE,
+			NU.APQ4.00.EHN, NU.APQ4.00.EHZ, NU.APQ5.00.EHE, NU.APQ5.00.EHN,
+			NU.APQ5.00.EHZ, NU.APYN.00.EHE, NU.APYN.00.EHN, NU.APYN.00.EHZ,
+			NU.BRAN.10.EHE, NU.BRAN.10.EHN, NU.BRAN.10.EHZ, NU.CNGA.00.EHE,
+			NU.CNGA.00.EHN, NU.CNGA.00.EHZ, NU.CONN..EHZ, NU.CONN.00.EHE,
+			NU.CONN.00.EHN, NU.CONN.00.EHZ, NU.COPN.00.EHZ, NU.CRUN.00.EHZ,
+			NU.HM03.00.EHE, NU.HM03.00.EHN, NU.HM03.00.EHZ, NU.HOYN.00.EHE,
+			NU.HOYN.00.EHN, NU.HOYN.00.EHZ, NU.ILCN.00.EHE, NU.ILCN.00.EHN,
+			NU.ILCN.00.EHZ, NU.JAPN.00.EHE, NU.JAPN.00.EHN, NU.JAPN.00.EHZ,
+			NU.MAFN..EHE, NU.MAFN..EHN, NU.MAFN..EHZ, NU.MAS3.00.EHE,
+			NU.MAS3.00.EHN, NU.MAS3.00.EHZ, NU.MIRN.00.EHZ, NU.MOM1.00.EHE,
+			NU.MOM1.00.EHN, NU.MOM1.00.EHZ, NU.MOMN.00.EHE, NU.MOMN.00.EHN,
+			NU.MOMN.00.EHZ, NU.MORN.00.EHE, NU.MORN.00.EHN, NU.MORN.00.EHZ,
+			NU.NADN.00.EHE, NU.NADN.00.EHN, NU.NADN.00.EHZ, NU.OCON.00.EHE,
+			NU.OCON.00.EHN, NU.OCON.00.EHZ, NU.OMEN.00.EHE, NU.OMEN.00.EHN,
+			NU.OMEN.00.EHZ, NU.PACN.00.EHE, NU.PACN.00.EHN, NU.PACN.00.EHZ,
+			NU.POLN.00.EHE, NU.POLN.00.EHN, NU.POLN.00.EHZ, NU.POZN..EHE,
+			NU.POZN..EHN, NU.POZN..EHZ, NU.QUEN.00.EHE, NU.QUEN.00.EHN,
+			NU.QUEN.00.EHZ, NU.RCFN..HHE, NU.RCFN..HHN, NU.RCFN..HHZ,
+			NU.RCPN..EHE, NU.RCPN..EHN, NU.RCPN..EHZ, NU.TEL3.00.EHZ,
+			NU.TELN.00.EHE, NU.TELN.00.EHN, NU.TELN.00.EHZ, NU.TISN.00.EHZ,
+			NU.WILN.30.EHE, NU.WILN.30.EHN, NU.WILN.30.EHZ, NU.INE2.00.EHE,
+			NU.INE2.00.EHN, NU.INE2.00.EHZ, NU.SAPN..HHE, NU.SAPN..HHN,
+			NU.SAPN..HHZ, NU.PMON.00.EHE, NU.PMON.00.EHN, NU.PMON.00.EHZ,
+			NU.ALTN.00.EHZ, NU.ACON..BHE, NU.ACON..BHN, NU.ACON..BHZ,
+			NU.ACON..HHE, NU.ACON..HHN, NU.ACON..HHZ, NU.ACON..LHE,
+			NU.ACON..LHN, NU.ACON..LHZ, NU.ACON..VHE, NU.ACON..VHN,
+			NU.ACON..VHZ, NU.APQN..HHE, NU.APQN..HHN, NU.APQN..HHZ,
+			NU.BLUN..BHE, NU.BLUN..BHN, NU.BLUN..BHZ, NU.BLUN..HHE,
+			NU.BLUN..HHN, NU.BLUN..HHZ, NU.BLUN..LHE, NU.BLUN..LHN,
+			NU.BLUN..LHZ, NU.BLUN..VHE, NU.BLUN..VHN, NU.BLUN..VHZ,
+			NU.CNGN..BHE, NU.CNGN..BHN, NU.CNGN..BHZ, NU.CNGN..HHE,
+			NU.CNGN..HHN, NU.CNGN..HHZ, NU.CNGN..LHE, NU.CNGN..LHN,
+			NU.CNGN..LHZ, NU.CNGN..VHE, NU.CNGN..VHN, NU.CNGN..VHZ,
+			NU.CRIN..BHE, NU.CRIN..BHN, NU.CRIN..BHZ, NU.CRIN..HHE,
+			NU.CRIN..HHN, NU.CRIN..HHZ, NU.CRIN..LHE, NU.CRIN..LHN,
+			NU.CRIN..LHZ, NU.CRIN..VHE, NU.CRIN..VHN, NU.CRIN..VHZ,
+			NU.CSAN..HHE, NU.CSAN..HHN, NU.CSAN..HHZ, NU.ESPN..BHE,
+			NU.ESPN..BHN, NU.ESPN..BHZ, NU.ESPN..HHE, NU.ESPN..HHN,
+			NU.ESPN..HHZ, NU.ESPN..LHE, NU.ESPN..LHN, NU.ESPN..LHZ,
+			NU.ESPN..VHE, NU.ESPN..VHN, NU.ESPN..VHZ, NU.ESTN..BHE,
+			NU.ESTN..BHN, NU.ESTN..BHZ, NU.ESTN..HHE, NU.ESTN..HHN,
+			NU.ESTN..HHZ, NU.ESTN..LHE, NU.ESTN..LHN, NU.ESTN..LHZ,
+			NU.ESTN..VHE, NU.ESTN..VHN, NU.ESTN..VHZ, NU.HERN..BHE,
+			NU.HERN..BHN, NU.HERN..BHZ, NU.HERN..HHE, NU.HERN..HHN,
+			NU.HERN..HHZ, NU.HERN..LHE, NU.HERN..LHN, NU.HERN..LHZ,
+			NU.HERN..VHE, NU.HERN..VHN, NU.HERN..VHZ, NU.HUEN..HHE,
+			NU.HUEN..HHN, NU.HUEN..HHZ, NU.MATN..BHE, NU.MATN..BHN,
+			NU.MATN..BHZ, NU.MATN..HHE, NU.MATN..HHN, NU.MATN..HHZ,
+			NU.MATN..LHE, NU.MATN..LHN, NU.MATN..LHZ, NU.MATN..VHE,
+			NU.MATN..VHN, NU.MATN..VHZ, NU.MGAN..BHE, NU.MGAN..BHN,
+			NU.MGAN..BHZ, NU.MGAN..HHE, NU.MGAN..HHN, NU.MGAN..HHZ,
+			NU.MGAN..LHE, NU.MGAN..LHN, NU.MGAN..LHZ, NU.MGAN..VHE,
+			NU.MGAN..VHN, NU.MGAN..VHZ, NU.NANN..BHE, NU.NANN..BHN,
+			NU.NANN..BHZ, NU.NANN..HHE, NU.NANN..HHN, NU.NANN..HHZ,
+			NU.NANN..LHE, NU.NANN..LHN, NU.NANN..LHZ, NU.NANN..VHE,
+			NU.NANN..VHN, NU.NANN..VHZ, NU.RCON..BHE, NU.RCON..BHN,
+			NU.RCON..BHZ, NU.RCON..HHE, NU.RCON..HHN, NU.RCON..HHZ,
+			NU.RCON..LHE, NU.RCON..LHN, NU.RCON..LHZ, NU.RCON..VHE,
+			NU.RCON..VHN, NU.RCON..VHZ, NU.SOMN..BHE, NU.SOMN..BHN,
+			NU.SOMN..BHZ, NU.SOMN..HHE, NU.SOMN..HHN, NU.SOMN..HHZ,
+			NU.SOMN..LHE, NU.SOMN..LHN, NU.SOMN..LHZ, NU.SOMN..VHE,
+			NU.SOMN..VHN, NU.SOMN..VHZ, NU.CSGN.00.EHZ, NU.RCVN..EHE,
+			NU.RCVN..EHN, NU.RCVN..EHZ, NU.ROCN.00.EHE, NU.ROCN.00.EHN,
+			NU.ROCN.00.EHZ, NU.USIN..HNE, NU.USIN..HNN, NU.USIN..HNZ,
+			NU.AESN..HNE, NU.AESN..HNN, NU.AESN..HNZ, NU.AAHN..HNE,
+			NU.AAHN..HNN, NU.AAHN..HNZ, NU.PLMN.00.EHE, NU.PLMN.00.EHN,
+			NU.PLMN.00.EHZ, NU.LIMN..HHE, NU.LIMN..HHN, NU.LIMN..HHZ,
+			NU.MASN.50.EHE, NU.MASN.50.EHN, NU.MASN.50.EHZ, NU.SIUN..EHE,
+			NU.SIUN..EHN, NU.SIUN..EHZ, NU.UBNT.00.EHE, NU.UBNT.00.EHN,
+			NU.UBNT.00.EHZ, NU.MOM2.00.EHE, NU.MOM2.00.EHN, NU.MOM2.00.EHZ,
+			NU.SIX1.50.EHE, NU.SIX1.50.EHN, NU.SIX1.50.EHZ, NU.SIX9.00.EHE,
+			NU.SIX9.00.EHN, NU.SIX9.00.EHZ, NU.SIXTM.50.EHE, NU.SIXTM.50.EHN,
+			NU.SIXTM.50.EHZ, NU.ICAN.50.EHE, NU.ICAN.50.EHN, NU.ICAN.50.EHZ,
+			NU.SJON.50.EHE, NU.SJON.50.EHN, NU.SJON.50.EHZ, NU.MAC2.50.EHE,
+			NU.MAC2.50.EHN, NU.MAC2.50.EHZ, NU.MACN.00.EHE, NU.MACN.00.EHN,
+			NU.MACN.00.EHZ</description>
+      <Style>
+        <ListStyle>
+          <listItemType>check</listItemType>
+          <bgColor>00ffff</bgColor>
+          <maxSnippetLines>5</maxSnippetLines>
+        </ListStyle>
+      </Style>
+      <Placemark>
+        <name>NU.ALLN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.273915,12.154787,0</coordinates>
+        </Point>
+        <description>Station ALLN (SMA Telcor Managua, Nicaragua)
+	Station Code: ALLN
+	Channel Count: None/None (Selected/Total)
+	2014-05-22T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.15, Longitude: -86.27, Elevation: 98.0 m
+	Available Channels:
+		ALLN..HNE, ALLN..HNN, ALLN..HNZ</description>
+        <TimeSpan>
+          <begin>2014-05-22T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.ABCN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.309857,12.121693,0</coordinates>
+        </Point>
+        <description>Station ABCN (SMA Banco Central, Nicaragua)
+	Station Code: ABCN
+	Channel Count: None/None (Selected/Total)
+	2014-05-13T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.12, Longitude: -86.31, Elevation: 175.0 m
+	Available Channels:
+		ABCN..HNE, ABCN..HNN, ABCN..HNZ</description>
+        <TimeSpan>
+          <begin>2014-05-13T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.SBEN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.067382,12.314857,0</coordinates>
+        </Point>
+        <description>Station SBEN (SMA San Benito, Nicaragua)
+	Station Code: SBEN
+	Channel Count: None/None (Selected/Total)
+	2014-05-22T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.31, Longitude: -86.07, Elevation: 72.0 m
+	Available Channels:
+		SBEN..HNE, SBEN..HNN, SBEN..HNZ</description>
+        <TimeSpan>
+          <begin>2014-05-22T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.ACSN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.357238,12.164877,0</coordinates>
+        </Point>
+        <description>Station ACSN (SMA Ciudad Sandino, Nicaragua)
+	Station Code: ACSN
+	Channel Count: None/None (Selected/Total)
+	2014-05-13T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.16, Longitude: -86.36, Elevation: 121.0 m
+	Available Channels:
+		ACSN..HNE, ACSN..HNN, ACSN..HNZ</description>
+        <TimeSpan>
+          <begin>2014-05-13T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.ACBN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.216500,12.006636,0</coordinates>
+        </Point>
+        <description>Station ACBN (SMA Campo Bello, Nicaragua)
+	Station Code: ACBN
+	Channel Count: None/None (Selected/Total)
+	2014-05-02T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.01, Longitude: -86.22, Elevation: 232.0 m
+	Available Channels:
+		ACBN..HNE, ACBN..HNN, ACBN..HNZ</description>
+        <TimeSpan>
+          <begin>2014-05-02T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.BC84</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.540350,12.394058,0</coordinates>
+        </Point>
+        <description>Station BC84 (SMA Volcan Momotombo, Nicaragua)
+	Station Code: BC84
+	Channel Count: None/None (Selected/Total)
+	2014-04-15T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.39, Longitude: -86.54, Elevation: 92.0 m
+	Available Channels:
+		BC84..HNE, BC84..HNN, BC84..HNZ</description>
+        <TimeSpan>
+          <begin>2014-04-15T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.BC86</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.564142,12.264227,0</coordinates>
+        </Point>
+        <description>Station BC86 (SMA Nagarote, Nicaragua)
+	Station Code: BC86
+	Channel Count: None/None (Selected/Total)
+	2014-04-15T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.26, Longitude: -86.56, Elevation: 84.0 m
+	Available Channels:
+		BC86..HNE, BC86..HNN, BC86..HNZ</description>
+        <TimeSpan>
+          <begin>2014-04-15T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.BC87</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.290062,12.507317,0</coordinates>
+        </Point>
+        <description>Station BC87 (SMA San Francisco Libre, Nicaragua)
+	Station Code: BC87
+	Channel Count: None/None (Selected/Total)
+	2014-04-15T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.51, Longitude: -86.29, Elevation: 102.0 m
+	Available Channels:
+		BC87..HNE, BC87..HNN, BC87..HNZ</description>
+        <TimeSpan>
+          <begin>2014-04-15T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.BC8A</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.248313,12.148928,0</coordinates>
+        </Point>
+        <description>Station BC8A (SMA INETER, Nicaragua)
+	Station Code: BC8A
+	Channel Count: None/None (Selected/Total)
+	2014-04-15T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.15, Longitude: -86.25, Elevation: 70.0 m
+	Available Channels:
+		BC8A..HNE, BC8A..HNN, BC8A..HNZ</description>
+        <TimeSpan>
+          <begin>2014-04-15T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.GRNN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-85.953867,11.928998,0</coordinates>
+        </Point>
+        <description>Station GRNN (SMA Granada, Nicaragua)
+	Station Code: GRNN
+	Channel Count: None/None (Selected/Total)
+	2014-06-10T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 11.93, Longitude: -85.95, Elevation: 60.0 m
+	Available Channels:
+		GRNN..HNE, GRNN..HNN, GRNN..HNZ</description>
+        <TimeSpan>
+          <begin>2014-06-10T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.AERN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.167767,12.144395,0</coordinates>
+        </Point>
+        <description>Station AERN (SMA Aeropuerto Managua, Nicaragua)
+	Station Code: AERN
+	Channel Count: None/None (Selected/Total)
+	2014-05-22T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.14, Longitude: -86.17, Elevation: 67.0 m
+	Available Channels:
+		AERN..HNE, AERN..HNN, AERN..HNZ</description>
+        <TimeSpan>
+          <begin>2014-05-22T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.ENAN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.261493,12.114243,0</coordinates>
+        </Point>
+        <description>Station ENAN (SMA ENATREL Managua, Nicaragua)
+	Station Code: ENAN
+	Channel Count: None/None (Selected/Total)
+	2014-05-28T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.11, Longitude: -86.26, Elevation: 184.0 m
+	Available Channels:
+		ENAN..HNE, ENAN..HNN, ENAN..HNZ</description>
+        <TimeSpan>
+          <begin>2014-05-28T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.AMTN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.430932,12.236283,0</coordinates>
+        </Point>
+        <description>Station AMTN (SMA Mateare, Nicaragua)
+	Station Code: AMTN
+	Channel Count: None/None (Selected/Total)
+	2014-05-14T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.24, Longitude: -86.43, Elevation: 65.0 m
+	Available Channels:
+		AMTN..HNE, AMTN..HNN, AMTN..HNZ</description>
+        <TimeSpan>
+          <begin>2014-05-14T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.XILN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.299093,12.221788,0</coordinates>
+        </Point>
+        <description>Station XILN (SMA Xiloa, Nicaragua)
+	Station Code: XILN
+	Channel Count: None/None (Selected/Total)
+	2014-05-22T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.22, Longitude: -86.30, Elevation: 84.0 m
+	Available Channels:
+		XILN..HNE, XILN..HNN, XILN..HNZ</description>
+        <TimeSpan>
+          <begin>2014-05-22T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.ADRN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.240872,11.857125,0</coordinates>
+        </Point>
+        <description>Station ADRN (SMA Diriamba, Nicaragua)
+	Station Code: ADRN
+	Channel Count: None/None (Selected/Total)
+	2014-05-22T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 11.86, Longitude: -86.24, Elevation: 596.0 m
+	Available Channels:
+		ADRN..HNE, ADRN..HNN, ADRN..HNZ</description>
+        <TimeSpan>
+          <begin>2014-05-22T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.CHNN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-87.125883,12.624942,0</coordinates>
+        </Point>
+        <description>Station CHNN (SMA Chinadega, Nnicaragua)
+	Station Code: CHNN
+	Channel Count: None/None (Selected/Total)
+	2014-05-22T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.62, Longitude: -87.13, Elevation: 94.0 m
+	Available Channels:
+		CHNN..HNE, CHNN..HNN, CHNN..HNZ</description>
+        <TimeSpan>
+          <begin>2014-05-22T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.AMYN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.100282,11.985070,0</coordinates>
+        </Point>
+        <description>Station AMYN (SMA CODE Masaya, Nicaragua)
+	Station Code: AMYN
+	Channel Count: None/None (Selected/Total)
+	2014-05-13T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 11.99, Longitude: -86.10, Elevation: 237.0 m
+	Available Channels:
+		AMYN..HNE, AMYN..HNN, AMYN..HNZ</description>
+        <TimeSpan>
+          <begin>2014-05-13T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.ALEN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.870503,12.457728,0</coordinates>
+        </Point>
+        <description>Station ALEN (SMA Leon, Nicaragua)
+	Station Code: ALEN
+	Channel Count: None/None (Selected/Total)
+	2014-05-14T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.46, Longitude: -86.87, Elevation: 195.0 m
+	Available Channels:
+		ALEN..HNE, ALEN..HNN, ALEN..HNZ</description>
+        <TimeSpan>
+          <begin>2014-05-14T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.CPAN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.225857,12.126243,0</coordinates>
+        </Point>
+        <description>Station CPAN (SMA Conchita Palacios, Nicaragua)
+	Station Code: CPAN
+	Channel Count: None/None (Selected/Total)
+	2014-05-22T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.13, Longitude: -86.23, Elevation: 138.0 m
+	Available Channels:
+		CPAN..HNE, CPAN..HNN, CPAN..HNZ</description>
+        <TimeSpan>
+          <begin>2014-05-22T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.TIPN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.094608,12.194689,0</coordinates>
+        </Point>
+        <description>Station TIPN (SMA Tipitapa, Nicaragua)
+	Station Code: TIPN
+	Channel Count: None/None (Selected/Total)
+	2014-05-09T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.19, Longitude: -86.09, Elevation: 66.0 m
+	Available Channels:
+		TIPN..HNE, TIPN..HNN, TIPN..HNZ</description>
+        <TimeSpan>
+          <begin>2014-05-09T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.MAFN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.238992,12.094515,0</coordinates>
+        </Point>
+        <description>Station MAFN (SMA MAGFOR Managua, Nicaragua)
+	Station Code: MAFN
+	Channel Count: None/None (Selected/Total)
+	2014-05-09T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.09, Longitude: -86.24, Elevation: 256.0 m
+	Available Channels:
+		MAFN..HNE, MAFN..HNN, MAFN..HNZ</description>
+        <TimeSpan>
+          <begin>2014-05-09T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.ARIN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-85.835123,11.454372,0</coordinates>
+        </Point>
+        <description>Station ARIN (SMA Rivas, Nicaragua)
+	Station Code: ARIN
+	Channel Count: None/None (Selected/Total)
+	2014-05-14T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 11.45, Longitude: -85.84, Elevation: 71.0 m
+	Available Channels:
+		ARIN..HNE, ARIN..HNN, ARIN..HNZ</description>
+        <TimeSpan>
+          <begin>2014-05-14T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.DECN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.274183,12.146525,0</coordinates>
+        </Point>
+        <description>Station DECN (SMA CODE-SINAPRED Managua, Nicaragua)
+	Station Code: DECN
+	Channel Count: None/None (Selected/Total)
+	2014-05-22T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.15, Longitude: -86.27, Elevation: 76.0 m
+	Available Channels:
+		DECN..HNE, DECN..HNN, DECN..HNZ</description>
+        <TimeSpan>
+          <begin>2014-05-22T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.AZCN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.176150,12.024500,0</coordinates>
+        </Point>
+        <description>Station AZCN (Norte del Volcan Masaya)
+	Station Code: AZCN
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.02, Longitude: -86.18, Elevation: 20.0 m
+	Available Channels:
+		AZCN..EHE, AZCN..EHN, AZCN..EHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.HB11</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.607000,12.506700,0</coordinates>
+        </Point>
+        <description>Station HB11 (Al NO del Volcan Momotombo)
+	Station Code: HB11
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.51, Longitude: -86.61, Elevation: 100.0 m
+	Available Channels:
+		HB11..EHE, HB11..EHN, HB11..EHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.MOM3</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.517800,12.511000,0</coordinates>
+        </Point>
+        <description>Station MOM3 (MOM3)
+	Station Code: MOM3
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.51, Longitude: -86.52, Elevation: 127.0 m
+	Available Channels:
+		MOM3.00.EHE, MOM3.00.EHN, MOM3.00.EHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.MSHP</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.535500,11.830000,0</coordinates>
+        </Point>
+        <description>Station MSHP (Al O del Volcan Concepcion)
+	Station Code: MSHP
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 11.83, Longitude: -86.54, Elevation: 8.0 m
+	Available Channels:
+		MSHP.00.EHE, MSHP.00.EHN, MSHP.00.EHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.PLRN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.768300,12.584000,0</coordinates>
+        </Point>
+        <description>Station PLRN (Al O del Volcan Concepcion)
+	Station Code: PLRN
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.58, Longitude: -86.77, Elevation: 230.0 m
+	Available Channels:
+		PLRN.00.EHE, PLRN.00.EHN, PLRN.00.EHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.SABN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.162000,11.956700,0</coordinates>
+        </Point>
+        <description>Station SABN (Asentamiento de Miramar)
+	Station Code: SABN
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 11.96, Longitude: -86.16, Elevation: 355.0 m
+	Available Channels:
+		SABN.00.EHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.APQ2</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.325333,12.197483,0</coordinates>
+        </Point>
+        <description>Station APQ2 (Apoyeque, Nicaragua)
+	Station Code: APQ2
+	Channel Count: None/None (Selected/Total)
+	2014-06-06T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.20, Longitude: -86.33, Elevation: 48.0 m
+	Available Channels:
+		APQ2.00.EHE, APQ2.00.EHN, APQ2.00.EHZ</description>
+        <TimeSpan>
+          <begin>2014-06-06T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.APQ3</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.368783,12.272333,0</coordinates>
+        </Point>
+        <description>Station APQ3 (Volcan Apoyeque sitio 3, Nicaragua)
+	Station Code: APQ3
+	Channel Count: None/None (Selected/Total)
+	2014-06-10T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.27, Longitude: -86.37, Elevation: 82.0 m
+	Available Channels:
+		APQ3.00.EHE, APQ3.00.EHN, APQ3.00.EHZ</description>
+        <TimeSpan>
+          <begin>2014-06-10T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.APQ4</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.329767,12.280183,0</coordinates>
+        </Point>
+        <description>Station APQ4 (Volcan Apoyeque sitio 4, Nicaragua)
+	Station Code: APQ4
+	Channel Count: None/None (Selected/Total)
+	2014-06-10T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.28, Longitude: -86.33, Elevation: 73.0 m
+	Available Channels:
+		APQ4.00.EHE, APQ4.00.EHN, APQ4.00.EHZ</description>
+        <TimeSpan>
+          <begin>2014-06-10T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.APQ5</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.382605,12.238708,0</coordinates>
+        </Point>
+        <description>Station APQ5 (Volcan Apoyeque sitio 5, Nicaragua)
+	Station Code: APQ5
+	Channel Count: None/None (Selected/Total)
+	2014-06-11T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.24, Longitude: -86.38, Elevation: 68.0 m
+	Available Channels:
+		APQ5.00.EHE, APQ5.00.EHN, APQ5.00.EHZ</description>
+        <TimeSpan>
+          <begin>2014-06-11T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.APYN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.353560,12.238700,0</coordinates>
+        </Point>
+        <description>Station APYN (Volcan Apoyeque)
+	Station Code: APYN
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.24, Longitude: -86.35, Elevation: 300.0 m
+	Available Channels:
+		APYN.00.EHE, APYN.00.EHN, APYN.00.EHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.BRAN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.343700,12.161800,0</coordinates>
+        </Point>
+        <description>Station BRAN (ENATREL Los Brasiles)
+	Station Code: BRAN
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.16, Longitude: -86.34, Elevation: 83.0 m
+	Available Channels:
+		BRAN.10.EHE, BRAN.10.EHN, BRAN.10.EHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.CNGA</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.701617,12.494383,0</coordinates>
+        </Point>
+        <description>Station CNGA (Al SSO del Volcan Cerro Negro)
+	Station Code: CNGA
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.49, Longitude: -86.70, Elevation: 489.0 m
+	Available Channels:
+		CNGA.00.EHE, CNGA.00.EHN, CNGA.00.EHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.CONN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-85.625700,11.564200,0</coordinates>
+        </Point>
+        <description>Station CONN (Central Sismica - INETER)
+	Station Code: CONN
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 11.56, Longitude: -85.63, Elevation: 250.0 m
+	Available Channels:
+		CONN..EHZ, CONN.00.EHE, CONN.00.EHN, CONN.00.EHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.COPN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.591700,12.180000,0</coordinates>
+        </Point>
+        <description>Station COPN (Copaltepe)
+	Station Code: COPN
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.18, Longitude: -86.59, Elevation: 150.0 m
+	Available Channels:
+		COPN.00.EHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.CRUN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.307700,11.993700,0</coordinates>
+        </Point>
+        <description>Station CRUN (El Crucero)
+	Station Code: CRUN
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 11.99, Longitude: -86.31, Elevation: 930.0 m
+	Available Channels:
+		CRUN.00.EHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.HM03</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.583500,12.427300,0</coordinates>
+        </Point>
+        <description>Station HM03 (Oeste Volcan Momotombo)
+	Station Code: HM03
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.43, Longitude: -86.58, Elevation: 40.0 m
+	Available Channels:
+		HM03.00.EHE, HM03.00.EHN, HM03.00.EHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.HOYN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.828000,12.598700,0</coordinates>
+        </Point>
+        <description>Station HOYN (Al Sur del Volcan Telica)
+	Station Code: HOYN
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.60, Longitude: -86.83, Elevation: 775.0 m
+	Available Channels:
+		HOYN.00.EHE, HOYN.00.EHN, HOYN.00.EHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.ILCN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.700000,12.577300,0</coordinates>
+        </Point>
+        <description>Station ILCN (San Idelfonso, Volcan Cerro Negro)
+	Station Code: ILCN
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.58, Longitude: -86.70, Elevation: 168.0 m
+	Available Channels:
+		ILCN.00.EHE, ILCN.00.EHN, ILCN.00.EHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.JAPN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-85.678300,11.525800,0</coordinates>
+        </Point>
+        <description>Station JAPN (Al SSO del Volcan Masaya)
+	Station Code: JAPN
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 11.53, Longitude: -85.68, Elevation: 154.0 m
+	Available Channels:
+		JAPN.00.EHE, JAPN.00.EHN, JAPN.00.EHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.MAFN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.239000,12.094500,0</coordinates>
+        </Point>
+        <description>Station MAFN (Magfor)
+	Station Code: MAFN
+	Channel Count: None/None (Selected/Total)
+	2000-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.09, Longitude: -86.24, Elevation: 247.0 m
+	Available Channels:
+		MAFN..EHE, MAFN..EHN, MAFN..EHZ</description>
+        <TimeSpan>
+          <begin>2000-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.MAS3</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.175700,12.024300,0</coordinates>
+        </Point>
+        <description>Station MAS3 (Al N del Volcan Masaya)
+	Station Code: MAS3
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.02, Longitude: -86.18, Elevation: 347.0 m
+	Available Channels:
+		MAS3.00.EHE, MAS3.00.EHN, MAS3.00.EHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.MIRN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.711700,12.440000,0</coordinates>
+        </Point>
+        <description>Station MIRN (Asentamiento de Miramar)
+	Station Code: MIRN
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.44, Longitude: -86.71, Elevation: 280.0 m
+	Available Channels:
+		MIRN.00.EHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.MOM1</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.583400,12.427317,0</coordinates>
+        </Point>
+        <description>Station MOM1 (Volcan Momotombo, Nicaragua)
+	Station Code: MOM1
+	Channel Count: None/None (Selected/Total)
+	2014-06-11T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.43, Longitude: -86.58, Elevation: 54.0 m
+	Available Channels:
+		MOM1.00.EHE, MOM1.00.EHN, MOM1.00.EHZ</description>
+        <TimeSpan>
+          <begin>2014-06-11T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.MOMN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.540800,12.406000,0</coordinates>
+        </Point>
+        <description>Station MOMN (al SSO del Volcan Momtombo)
+	Station Code: MOMN
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.41, Longitude: -86.54, Elevation: 410.0 m
+	Available Channels:
+		MOMN.00.EHE, MOMN.00.EHN, MOMN.00.EHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.MORN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-85.648000,11.546700,0</coordinates>
+        </Point>
+        <description>Station MORN (Al O del Volcan Concepcion)
+	Station Code: MORN
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 11.55, Longitude: -85.65, Elevation: 350.0 m
+	Available Channels:
+		MORN.00.EHE, MORN.00.EHN, MORN.00.EHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.NADN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.032300,11.748800,0</coordinates>
+        </Point>
+        <description>Station NADN (ENATREL Nandaime)
+	Station Code: NADN
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 11.75, Longitude: -86.03, Elevation: 115.0 m
+	Available Channels:
+		NADN.00.EHE, NADN.00.EHN, NADN.00.EHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.OCON</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.477500,13.630800,0</coordinates>
+        </Point>
+        <description>Station OCON (Estacion meteorologica de Ocatal)
+	Station Code: OCON
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 13.63, Longitude: -86.48, Elevation: 622.0 m
+	Available Channels:
+		OCON.00.EHE, OCON.00.EHN, OCON.00.EHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.OMEN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-85.626800,11.509800,0</coordinates>
+        </Point>
+        <description>Station OMEN (Al SSO del Volcan Concepcion)
+	Station Code: OMEN
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 11.51, Longitude: -85.63, Elevation: 160.0 m
+	Available Channels:
+		OMEN.00.EHE, OMEN.00.EHN, OMEN.00.EHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.PACN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.792300,12.500800,0</coordinates>
+        </Point>
+        <description>Station PACN (Al O del Volcan Cerro Negro)
+	Station Code: PACN
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.50, Longitude: -86.79, Elevation: 220.0 m
+	Available Channels:
+		PACN.00.EHE, PACN.00.EHN, PACN.00.EHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.POLN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.812800,12.649300,0</coordinates>
+        </Point>
+        <description>Station POLN (Al Sur del Volcan Telica)
+	Station Code: POLN
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.65, Longitude: -86.81, Elevation: 330.0 m
+	Available Channels:
+		POLN.00.EHE, POLN.00.EHN, POLN.00.EHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.POZN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.607000,12.506700,0</coordinates>
+        </Point>
+        <description>Station POZN (Al N del Volcan Momotombo)
+	Station Code: POZN
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.51, Longitude: -86.61, Elevation: 101.0 m
+	Available Channels:
+		POZN..EHE, POZN..EHN, POZN..EHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.QUEN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.851800,12.591800,0</coordinates>
+        </Point>
+        <description>Station QUEN (Al S del Volcan Telica)
+	Station Code: QUEN
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.59, Longitude: -86.85, Elevation: 460.0 m
+	Available Channels:
+		QUEN.00.EHE, QUEN.00.EHN, QUEN.00.EHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.RCFN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.212300,13.531300,0</coordinates>
+        </Point>
+        <description>Station RCFN (Al S de San Juan del Rio Coco)
+	Station Code: RCFN
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 13.53, Longitude: -86.21, Elevation: 1346.0 m
+	Available Channels:
+		RCFN..HHE, RCFN..HHN, RCFN..HHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.RCPN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.094000,13.526000,0</coordinates>
+        </Point>
+        <description>Station RCPN (Sur Rio San Juan del Rio Coco)
+	Station Code: RCPN
+	Channel Count: None/None (Selected/Total)
+	2000-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 13.53, Longitude: -86.09, Elevation: 1069.0 m
+	Available Channels:
+		RCPN..EHE, RCPN..EHN, RCPN..EHZ</description>
+        <TimeSpan>
+          <begin>2000-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.TEL3</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.844800,12.572200,0</coordinates>
+        </Point>
+        <description>Station TEL3 (Al SSE del Volcan Telica)
+	Station Code: TEL3
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.57, Longitude: -86.84, Elevation: 300.0 m
+	Available Channels:
+		TEL3.00.EHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.TELN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.834800,12.606500,0</coordinates>
+        </Point>
+        <description>Station TELN (Al E del Volcan Telica)
+	Station Code: TELN
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.61, Longitude: -86.83, Elevation: 897.0 m
+	Available Channels:
+		TELN.00.EHE, TELN.00.EHN, TELN.00.EHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.TISN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.269300,12.142500,0</coordinates>
+        </Point>
+        <description>Station TISN (Estado Mayor, Ejercito Nacional)
+	Station Code: TISN
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.14, Longitude: -86.27, Elevation: 200.0 m
+	Available Channels:
+		TISN.00.EHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.WILN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.187696,12.161463,0</coordinates>
+        </Point>
+        <description>Station WILN (Casa de Wilfried Americas Dos, Nicaragua)
+	Station Code: WILN
+	Channel Count: None/None (Selected/Total)
+	2014-04-30T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.16, Longitude: -86.19, Elevation: 20.0 m
+	Available Channels:
+		WILN.30.EHE, WILN.30.EHN, WILN.30.EHZ</description>
+        <TimeSpan>
+          <begin>2014-04-30T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.INE2</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.248313,12.148928,0</coordinates>
+        </Point>
+        <description>Station INE2 (INETER, Estacion de Prueba)
+	Station Code: INE2
+	Channel Count: None/None (Selected/Total)
+	2014-06-06T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.15, Longitude: -86.25, Elevation: 70.0 m
+	Available Channels:
+		INE2.00.EHE, INE2.00.EHN, INE2.00.EHZ</description>
+        <TimeSpan>
+          <begin>2014-06-06T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.SAPN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.404841,12.169313,0</coordinates>
+        </Point>
+        <description>Station SAPN (BB Ciudad Sandino San Andres de las Palancas, Nicaragua)
+	Station Code: SAPN
+	Channel Count: None/None (Selected/Total)
+	2014-05-14T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.17, Longitude: -86.40, Elevation: 156.0 m
+	Available Channels:
+		SAPN..HHE, SAPN..HHN, SAPN..HHZ</description>
+        <TimeSpan>
+          <begin>2014-05-14T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.PMON</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-87.172000,12.848800,0</coordinates>
+        </Point>
+        <description>Station PMON (Puerto Morazan)
+	Station Code: PMON
+	Channel Count: None/None (Selected/Total)
+	2013-03-07T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.85, Longitude: -87.17, Elevation: 25.0 m
+	Available Channels:
+		PMON.00.EHE, PMON.00.EHN, PMON.00.EHZ</description>
+        <TimeSpan>
+          <begin>2013-03-07T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.ALTN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-85.600750,11.541983,0</coordinates>
+        </Point>
+        <description>Station ALTN (Altagracia, Isla de ometepe)
+	Station Code: ALTN
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 11.54, Longitude: -85.60, Elevation: 425.0 m
+	Available Channels:
+		ALTN.00.EHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.ACON</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-85.174000,11.968000,0</coordinates>
+        </Point>
+        <description>Station ACON (Acoyapa, Nicaragua)
+	Station Code: ACON
+	Channel Count: None/None (Selected/Total)
+	2008-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 11.97, Longitude: -85.17, Elevation: 862.0 m
+	Available Channels:
+		ACON..BHE, ACON..BHN, ACON..BHZ, ACON..HHE, ACON..HHN, ACON..HHZ,
+		ACON..LHE, ACON..LHN, ACON..LHZ, ACON..VHE, ACON..VHN, ACON..VHZ</description>
+        <TimeSpan>
+          <begin>2008-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.APQN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.299168,12.221697,0</coordinates>
+        </Point>
+        <description>Station APQN (BB Volcan Apoyeque, Nicaragua)
+	Station Code: APQN
+	Channel Count: None/None (Selected/Total)
+	2014-05-03T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.22, Longitude: -86.30, Elevation: 76.0 m
+	Available Channels:
+		APQN..HHE, APQN..HHN, APQN..HHZ</description>
+        <TimeSpan>
+          <begin>2014-05-03T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.BLUN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-83.774670,12.005167,0</coordinates>
+        </Point>
+        <description>Station BLUN (Bluefields, Entresa, Nicaragua)
+	Station Code: BLUN
+	Channel Count: None/None (Selected/Total)
+	2008-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.01, Longitude: -83.77, Elevation: 50.0 m
+	Available Channels:
+		BLUN..BHE, BLUN..BHN, BLUN..BHZ, BLUN..HHE, BLUN..HHN, BLUN..HHZ,
+		BLUN..LHE, BLUN..LHN, BLUN..LHZ, BLUN..VHE, BLUN..VHN, BLUN..VHZ</description>
+        <TimeSpan>
+          <begin>2008-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.CNGN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.698500,12.500000,0</coordinates>
+        </Point>
+        <description>Station CNGN (Volcan Cerro Negro, Nicaragua)
+	Station Code: CNGN
+	Channel Count: None/None (Selected/Total)
+	2008-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.50, Longitude: -86.70, Elevation: 515.0 m
+	Available Channels:
+		CNGN..BHE, CNGN..BHN, CNGN..BHZ, CNGN..HHE, CNGN..HHN, CNGN..HHZ,
+		CNGN..LHE, CNGN..LHN, CNGN..LHZ, CNGN..VHE, CNGN..VHN, CNGN..VHZ</description>
+        <TimeSpan>
+          <begin>2008-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.CRIN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-87.050000,12.696167,0</coordinates>
+        </Point>
+        <description>Station CRIN (volcan San Cristobal, Nicaragua)
+	Station Code: CRIN
+	Channel Count: None/None (Selected/Total)
+	2008-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.70, Longitude: -87.05, Elevation: 685.0 m
+	Available Channels:
+		CRIN..BHE, CRIN..BHN, CRIN..BHZ, CRIN..HHE, CRIN..HHN, CRIN..HHZ,
+		CRIN..LHE, CRIN..LHN, CRIN..LHZ, CRIN..VHE, CRIN..VHN, CRIN..VHZ</description>
+        <TimeSpan>
+          <begin>2008-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.CSAN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.414610,12.156192,0</coordinates>
+        </Point>
+        <description>Station CSAN (BB Ciudad Sandino, Nicaragua)
+	Station Code: CSAN
+	Channel Count: None/None (Selected/Total)
+	2014-05-14T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.16, Longitude: -86.41, Elevation: 441.0 m
+	Available Channels:
+		CSAN..HHE, CSAN..HHN, CSAN..HHZ</description>
+        <TimeSpan>
+          <begin>2014-05-14T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.ESPN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-84.300307,12.195000,0</coordinates>
+        </Point>
+        <description>Station ESPN (Las Esperanzas, Nicaragua)
+	Station Code: ESPN
+	Channel Count: None/None (Selected/Total)
+	2008-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.20, Longitude: -84.30, Elevation: 45.0 m
+	Available Channels:
+		ESPN..BHE, ESPN..BHN, ESPN..BHZ, ESPN..HHE, ESPN..HHN, ESPN..HHZ,
+		ESPN..LHE, ESPN..LHN, ESPN..LHZ, ESPN..VHE, ESPN..VHN, ESPN..VHZ</description>
+        <TimeSpan>
+          <begin>2008-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.ESTN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.369167,13.101667,0</coordinates>
+        </Point>
+        <description>Station ESTN (Esteli, Nicaragua)
+	Station Code: ESTN
+	Channel Count: None/None (Selected/Total)
+	2008-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 13.10, Longitude: -86.37, Elevation: 862.0 m
+	Available Channels:
+		ESTN..BHE, ESTN..BHN, ESTN..BHZ, ESTN..HHE, ESTN..HHN, ESTN..HHZ,
+		ESTN..LHE, ESTN..LHN, ESTN..LHZ, ESTN..VHE, ESTN..VHN, ESTN..VHZ</description>
+        <TimeSpan>
+          <begin>2008-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.HERN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.831000,12.609300,0</coordinates>
+        </Point>
+        <description>Station HERN (Volcan Telica, Nicaragua)
+	Station Code: HERN
+	Channel Count: None/None (Selected/Total)
+	2013-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.61, Longitude: -86.83, Elevation: 758.0 m
+	Available Channels:
+		HERN..BHE, HERN..BHN, HERN..BHZ, HERN..HHE, HERN..HHN, HERN..HHZ,
+		HERN..LHE, HERN..LHN, HERN..LHZ, HERN..VHE, HERN..VHN, HERN..VHZ</description>
+        <TimeSpan>
+          <begin>2013-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.HUEN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.169365,12.336300,0</coordinates>
+        </Point>
+        <description>Station HUEN (BB Puenta Huete, Nicaragua)
+	Station Code: HUEN
+	Channel Count: None/None (Selected/Total)
+	2014-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.34, Longitude: -86.17, Elevation: 79.0 m
+	Available Channels:
+		HUEN..HHE, HUEN..HHN, HUEN..HHZ</description>
+        <TimeSpan>
+          <begin>2014-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.MATN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-85.925500,12.929800,0</coordinates>
+        </Point>
+        <description>Station MATN (Matagalpa City, Nicaragua)
+	Station Code: MATN
+	Channel Count: None/None (Selected/Total)
+	2010-10-31T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.93, Longitude: -85.93, Elevation: 869.0 m
+	Available Channels:
+		MATN..BHE, MATN..BHN, MATN..BHZ, MATN..HHE, MATN..HHN, MATN..HHZ,
+		MATN..LHE, MATN..LHN, MATN..LHZ, MATN..VHE, MATN..VHN, MATN..VHZ</description>
+        <TimeSpan>
+          <begin>2010-10-31T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.MGAN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.248313,12.148928,0</coordinates>
+        </Point>
+        <description>Station MGAN (Managua, Nicaragua)
+	Station Code: MGAN
+	Channel Count: None/None (Selected/Total)
+	2008-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.15, Longitude: -86.25, Elevation: 70.0 m
+	Available Channels:
+		MGAN..BHE, MGAN..BHN, MGAN..BHZ, MGAN..HHE, MGAN..HHN, MGAN..HHZ,
+		MGAN..LHE, MGAN..LHN, MGAN..LHZ, MGAN..VHE, MGAN..VHN, MGAN..VHZ</description>
+        <TimeSpan>
+          <begin>2008-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.NANN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.121279,11.939032,0</coordinates>
+        </Point>
+        <description>Station NANN (Nandasmo, Nicaragua)
+	Station Code: NANN
+	Channel Count: None/None (Selected/Total)
+	2014-02-09T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 11.94, Longitude: -86.12, Elevation: 327.0 m
+	Available Channels:
+		NANN..BHE, NANN..BHN, NANN..BHZ, NANN..HHE, NANN..HHN, NANN..HHZ,
+		NANN..LHE, NANN..LHN, NANN..LHZ, NANN..VHE, NANN..VHN, NANN..VHZ</description>
+        <TimeSpan>
+          <begin>2014-02-09T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.RCON</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.156000,13.484170,0</coordinates>
+        </Point>
+        <description>Station RCON (San Jose del Ojoche, San Juan de Rio Coco, Nicaragua)
+	Station Code: RCON
+	Channel Count: None/None (Selected/Total)
+	2012-04-09T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 13.48, Longitude: -86.16, Elevation: 1324.0 m
+	Available Channels:
+		RCON..BHE, RCON..BHN, RCON..BHZ, RCON..HHE, RCON..HHN, RCON..HHZ,
+		RCON..LHE, RCON..LHN, RCON..LHZ, RCON..VHE, RCON..VHN, RCON..VHZ</description>
+        <TimeSpan>
+          <begin>2012-04-09T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.SOMN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.516667,13.500000,0</coordinates>
+        </Point>
+        <description>Station SOMN (Somoto, Nicaragua)
+	Station Code: SOMN
+	Channel Count: None/None (Selected/Total)
+	2013-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 13.50, Longitude: -86.52, Elevation: 1254.0 m
+	Available Channels:
+		SOMN..BHE, SOMN..BHN, SOMN..BHZ, SOMN..HHE, SOMN..HHN, SOMN..HHZ,
+		SOMN..LHE, SOMN..LHN, SOMN..LHZ, SOMN..VHE, SOMN..VHN, SOMN..VHZ</description>
+        <TimeSpan>
+          <begin>2013-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.CSGN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-87.558700,12.976300,0</coordinates>
+        </Point>
+        <description>Station CSGN (COSIGUINA)
+	Station Code: CSGN
+	Channel Count: None/None (Selected/Total)
+	2015-06-18T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.98, Longitude: -87.56, Elevation: 476.0 m
+	Available Channels:
+		CSGN.00.EHZ</description>
+        <TimeSpan>
+          <begin>2015-06-18T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.RCVN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.193600,13.583600,0</coordinates>
+        </Point>
+        <description>Station RCVN (varillal2)
+	Station Code: RCVN
+	Channel Count: None/None (Selected/Total)
+	2012-02-21T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 13.58, Longitude: -86.19, Elevation: 1245.0 m
+	Available Channels:
+		RCVN..EHE, RCVN..EHN, RCVN..EHZ</description>
+        <TimeSpan>
+          <begin>2012-02-21T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.ROCN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.743700,12.519600,0</coordinates>
+        </Point>
+        <description>Station ROCN (ROTA CERRO NEGRO)
+	Station Code: ROCN
+	Channel Count: None/None (Selected/Total)
+	2006-11-05T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.52, Longitude: -86.74, Elevation: 267.0 m
+	Available Channels:
+		ROCN.00.EHE, ROCN.00.EHN, ROCN.00.EHZ</description>
+        <TimeSpan>
+          <begin>2006-11-05T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.USIN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.273876,12.116387,0</coordinates>
+        </Point>
+        <description>Station USIN (SMA UNAN Managua)
+	Station Code: USIN
+	Channel Count: None/None (Selected/Total)
+	2015-07-29T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.12, Longitude: -86.27, Elevation: 172.0 m
+	Available Channels:
+		USIN..HNE, USIN..HNN, USIN..HNZ</description>
+        <TimeSpan>
+          <begin>2015-07-29T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.AESN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.540000,12.888166,0</coordinates>
+        </Point>
+        <description>Station AESN (EL SAUCE LEON)
+	Station Code: AESN
+	Channel Count: None/None (Selected/Total)
+	2015-08-29T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.89, Longitude: -86.54, Elevation: 172.0 m
+	Available Channels:
+		AESN..HNE, AESN..HNN, AESN..HNZ</description>
+        <TimeSpan>
+          <begin>2015-08-29T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.AAHN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.590200,13.053030,0</coordinates>
+        </Point>
+        <description>Station AAHN (Alcaldia de Achuapa)
+	Station Code: AAHN
+	Channel Count: None/None (Selected/Total)
+	2015-09-14T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 13.05, Longitude: -86.59, Elevation: 325.0 m
+	Available Channels:
+		AAHN..HNE, AAHN..HNN, AAHN..HNZ</description>
+        <TimeSpan>
+          <begin>2015-09-14T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.PLMN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.571000,12.928800,0</coordinates>
+        </Point>
+        <description>Station PLMN (La Palma, Nicaragua)
+	Station Code: PLMN
+	Channel Count: None/None (Selected/Total)
+	2015-09-15T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.93, Longitude: -86.57, Elevation: 239.0 m
+	Available Channels:
+		PLMN.00.EHE, PLMN.00.EHN, PLMN.00.EHZ</description>
+        <TimeSpan>
+          <begin>2015-09-15T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.LIMN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.366198,13.062363,0</coordinates>
+        </Point>
+        <description>Station LIMN (Finca el Limon)
+	Station Code: LIMN
+	Channel Count: None/None (Selected/Total)
+	2015-10-07T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 13.06, Longitude: -86.37, Elevation: 888.0 m
+	Available Channels:
+		LIMN..HHE, LIMN..HHN, LIMN..HHZ</description>
+        <TimeSpan>
+          <begin>2015-10-07T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.MASN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.149010,12.002830,0</coordinates>
+        </Point>
+        <description>Station MASN (Volcan Masaya, Nicaragua)
+	Station Code: MASN
+	Channel Count: None/None (Selected/Total)
+	2015-12-11T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.00, Longitude: -86.15, Elevation: 150.0 m
+	Available Channels:
+		MASN.50.EHE, MASN.50.EHN, MASN.50.EHZ</description>
+        <TimeSpan>
+          <begin>2015-12-11T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.SIUN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-84.773500,13.716333,0</coordinates>
+        </Point>
+        <description>Station SIUN (SIUNA)
+	Station Code: SIUN
+	Channel Count: None/None (Selected/Total)
+	2016-03-01T12:00:00.000000Z - 
+	Access: open 
+	Latitude: 13.72, Longitude: -84.77, Elevation: 178.0 m
+	Available Channels:
+		SIUN..EHE, SIUN..EHN, SIUN..EHZ</description>
+        <TimeSpan>
+          <begin>2016-03-01T12:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.UBNT</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-85.589417,11.526833,0</coordinates>
+        </Point>
+        <description>Station UBNT (Urbait 2, Isla de Ometepe)
+	Station Code: UBNT
+	Channel Count: None/None (Selected/Total)
+	2016-04-02T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 11.53, Longitude: -85.59, Elevation: 169.0 m
+	Available Channels:
+		UBNT.00.EHE, UBNT.00.EHN, UBNT.00.EHZ</description>
+        <TimeSpan>
+          <begin>2016-04-02T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.MOM2</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.484493,12.437198,0</coordinates>
+        </Point>
+        <description>Station MOM2 (El cardon, Momotombo, NIcaragua)
+	Station Code: MOM2
+	Channel Count: None/None (Selected/Total)
+	2014-06-11T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.44, Longitude: -86.48, Elevation: 53.0 m
+	Available Channels:
+		MOM2.00.EHE, MOM2.00.EHN, MOM2.00.EHZ</description>
+        <TimeSpan>
+          <begin>2014-06-11T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.SIX1</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.219838,12.067109,0</coordinates>
+        </Point>
+        <description>Station SIX1 (Esquipula temporal)
+	Station Code: SIX1
+	Channel Count: None/None (Selected/Total)
+	2016-06-02T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.07, Longitude: -86.22, Elevation: 244.0 m
+	Available Channels:
+		SIX1.50.EHE, SIX1.50.EHN, SIX1.50.EHZ</description>
+        <TimeSpan>
+          <begin>2016-06-02T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.SIX9</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.540800,12.406000,0</coordinates>
+        </Point>
+        <description>Station SIX9 (Prueba central sismica)
+	Station Code: SIX9
+	Channel Count: None/None (Selected/Total)
+	2016-05-11T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.41, Longitude: -86.54, Elevation: 410.0 m
+	Available Channels:
+		SIX9.00.EHE, SIX9.00.EHN, SIX9.00.EHZ</description>
+        <TimeSpan>
+          <begin>2016-05-11T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.SIXTM</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.169044,11.982602,0</coordinates>
+        </Point>
+        <description>Station SIXTM (Santiago Volcan (SANN))
+	Station Code: SIXTM
+	Channel Count: None/None (Selected/Total)
+	2016-04-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 11.98, Longitude: -86.17, Elevation: 500.0 m
+	Available Channels:
+		SIXTM.50.EHE, SIXTM.50.EHN, SIXTM.50.EHZ</description>
+        <TimeSpan>
+          <begin>2016-04-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.ICAN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-87.064384,12.845190,0</coordinates>
+        </Point>
+        <description>Station ICAN (Isla Campuzano)
+	Station Code: ICAN
+	Channel Count: None/None (Selected/Total)
+	2016-06-20T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.85, Longitude: -87.06, Elevation: 129.0 m
+	Available Channels:
+		ICAN.50.EHE, ICAN.50.EHN, ICAN.50.EHZ</description>
+        <TimeSpan>
+          <begin>2016-06-20T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.SJON</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-87.001140,12.812162,0</coordinates>
+        </Point>
+        <description>Station SJON (San Jose del Obraje)
+	Station Code: SJON
+	Channel Count: None/None (Selected/Total)
+	2016-06-20T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.81, Longitude: -87.00, Elevation: 11.0 m
+	Available Channels:
+		SJON.50.EHE, SJON.50.EHN, SJON.50.EHZ</description>
+        <TimeSpan>
+          <begin>2016-06-20T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.MAC2</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.674766,12.465866,0</coordinates>
+        </Point>
+        <description>Station MAC2 (El Madrono, SAT Cerro Negro 2)
+	Station Code: MAC2
+	Channel Count: None/None (Selected/Total)
+	2016-09-19T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.47, Longitude: -86.67, Elevation: 447.0 m
+	Available Channels:
+		MAC2.50.EHE, MAC2.50.EHN, MAC2.50.EHZ</description>
+        <TimeSpan>
+          <begin>2016-09-19T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>NU.MACN</name>
+        <styleUrl>#station_0</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.674766,12.465866,0</coordinates>
+        </Point>
+        <description>Station MACN (El Madrono, SAT Cerro Negro)
+	Station Code: MACN
+	Channel Count: None/None (Selected/Total)
+	2016-09-27T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.47, Longitude: -86.67, Elevation: 447.0 m
+	Available Channels:
+		MACN.00.EHE, MACN.00.EHN, MACN.00.EHZ</description>
+        <TimeSpan>
+          <begin>2016-09-27T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <TimeSpan>
+        <begin>1980-01-01T00:00:00.000000Z</begin>
+      </TimeSpan>
+    </Folder>
+    <Folder>
+      <name>OV</name>
+      <open>1</open>
+      <description>Network OV (lo UNA OVSICORI-UNA)
+	Station Count: None/None (Selected/Total)
+	1980-01-01T00:00:00.000000Z - --
+	Access: open
+	Contains:
+		Stations (49):
+			OV.BATAN (BATAN, Limon)
+			OV.CDITO (COLORADITO, Corredores)
+			OV.CDM (CERRO DE LA MUERTE, San Jose)
+			OV.COVE (COOPE VEGA, San Carlos, Alajuela)
+			OV.DUNO (DULCE NOMBRE, Nicoya, Guanacaste)
+			OV.HZTE (HORIZONTES, Guanacaste)
+			OV.LAFE (Finca La Fe,Paquera, Puntarenas)
+			OV.ORTG (Ortega, Santa Cruz, Guanacaste)
+			OV.PEZE (PEREZ ZELEDON, Campus UNA, Perez Zeledon, San Jose)
+			OV.RIOS (RINCON, Osa)
+			OV.VTCE (CRATER ESTE, Volcan Turrialba)
+			OV.VTCG (CASA GUARDA, Volcan Turrialba)
+			OV.VTUN (CRATER CENTRAL, Volcan Turrialba, Cartago)
+			OV.CCOL (Caracol de Corredores, Puntarenas)
+			OV.HATI (HATILLO)
+			OV.HDC3 (HEREDIA, Heredia)
+			OV.MRVA (Moravia de Chirripo, San Jose)
+			OV.OCM (Ochomogo, Cartago)
+			OV.POTG (Potrero Grande  , Buenos Aires , Puntarenas)
+			OV.QPSB (QUEPOS, Puntarenas)
+			OV.SAJU (San Juanillo, Guanacaste)
+			OV.SRBA (San Rafael, Buenos Aires, Costa Rica)
+			OV.VAVL (VAVL, Volcan Arenal, Volcano Lodge)
+			OV.VICA (Crater Activo, Volcan Irazu)
+			OV.VIRE (Volcan irazu hacienda Retes)
+			OV.VPTE (Terranova, Volcan Poas)
+			OV.VPVF (VPVF, von Frantzius)
+			OV.VRLE (La Escondida, Volcán Rincón de la Vieja, Guanaca)
+			OV.VTCV (VTCV, Calle Vargas, Turrialba)
+			OV.VTLA (VTLA, Volcan Turrialba)
+			OV.VTRE (Volcan Turrialba, Hacienda Retiro)
+			OV.VTUC (CRATER, Volcan Turrialba, Cartago)
+			OV.CAO2 (Cobano, Puntarenas)
+			OV.CRPO (crater poas)
+			OV.CTCR (Coton, Coto Brus)
+			OV.GRZA (Playa Garza)
+			OV.HAYA (Volcan Irazu)
+			OV.HRIU (Hotel RIU, Guanacaste)
+			OV.INDI (INDI, Punta Indio, Guanacaste)
+			OV.JACO (JACO, Garabito, Puntarenas)
+			OV.JUDI (Juan Diaz, Guanacaste)
+			OV.NARJ (Naranjo)
+			OV.OCHAL (Ojochal, Costa Rica)
+			OV.PJIM (Puerto Jimenez, Puntarenas)
+			OV.PUJE (Puerto Jesus Guanacaste)
+			OV.RIFO (RIO FRIO, Sarapiqui, Heredia)
+			OV.RIMA (Rio Macho)
+			OV.VACR (Volcan Arenal)
+			OV.VIMO (Monserrat, Cascajal, Coronado, Volcan Irazu)
+		Channels (320):
+			OV.BATAN..HHE, OV.BATAN..HHN, OV.BATAN..HHZ, OV.BATAN..BHE,
+			OV.BATAN..BHN, OV.BATAN..BHZ, OV.BATAN..HNE, OV.BATAN..HNN,
+			OV.BATAN..HNZ, OV.BATAN..LHE, OV.BATAN..LHN, OV.BATAN..LHZ,
+			OV.CDITO..HHE, OV.CDITO..HHN, OV.CDITO..HHZ, OV.CDITO..BHE,
+			OV.CDITO..BHN, OV.CDITO..BHZ, OV.CDITO..HNE, OV.CDITO..HNN,
+			OV.CDITO..HNZ, OV.CDITO..LHE, OV.CDITO..LHN, OV.CDITO..LHZ,
+			OV.CDM..HHE, OV.CDM..HHN, OV.CDM..HHZ, OV.CDM..BHE, OV.CDM..BHN,
+			OV.CDM..BHZ, OV.CDM..HNE, OV.CDM..HNN, OV.CDM..HNZ, OV.CDM..LHE,
+			OV.CDM..LHN, OV.CDM..LHZ, OV.COVE..HHE, OV.COVE..HHN, OV.COVE..HHZ,
+			OV.COVE..BHE, OV.COVE..BHN, OV.COVE..BHZ, OV.COVE..HNE,
+			OV.COVE..HNN, OV.COVE..HNZ, OV.COVE..LHE, OV.COVE..LHN,
+			OV.COVE..LHZ, OV.DUNO..HHE, OV.DUNO..HHN, OV.DUNO..HHZ,
+			OV.DUNO..BHE, OV.DUNO..BHN, OV.DUNO..BHZ, OV.DUNO..HNE,
+			OV.DUNO..HNN, OV.DUNO..HNZ, OV.DUNO..LHE, OV.DUNO..LHN,
+			OV.DUNO..LHZ, OV.HZTE..HHE, OV.HZTE..HHN, OV.HZTE..HHZ,
+			OV.HZTE..BHE, OV.HZTE..BHN, OV.HZTE..BHZ, OV.HZTE..HNE,
+			OV.HZTE..HNN, OV.HZTE..HNZ, OV.HZTE..LHE, OV.HZTE..LHN,
+			OV.HZTE..LHZ, OV.LAFE..HHE, OV.LAFE..HHN, OV.LAFE..HHZ,
+			OV.LAFE..HNE, OV.LAFE..HNN, OV.LAFE..HNZ, OV.ORTG..BHE,
+			OV.ORTG..BHN, OV.ORTG..BHZ, OV.ORTG..HHE, OV.ORTG..HHN,
+			OV.ORTG..HHZ, OV.ORTG..HNE, OV.ORTG..HNN, OV.ORTG..HNZ,
+			OV.ORTG..LHE, OV.ORTG..LHN, OV.ORTG..LHZ, OV.PEZE..HHE,
+			OV.PEZE..HHN, OV.PEZE..HHZ, OV.PEZE..BHE, OV.PEZE..BHN,
+			OV.PEZE..BHZ, OV.PEZE..HNE, OV.PEZE..HNN, OV.PEZE..HNZ,
+			OV.PEZE..LHE, OV.PEZE..LHN, OV.PEZE..LHZ, OV.RIOS..HHE,
+			OV.RIOS..HHN, OV.RIOS..HHZ, OV.RIOS..BHE, OV.RIOS..BHN,
+			OV.RIOS..BHZ, OV.RIOS..HNE, OV.RIOS..HNN, OV.RIOS..HNZ,
+			OV.RIOS..LHE, OV.RIOS..LHN, OV.RIOS..LHZ, OV.VTCE..HHE,
+			OV.VTCE..HHN, OV.VTCE..HHZ, OV.VTCG..HHE, OV.VTCG..HHN,
+			OV.VTCG..HHZ, OV.VTUN..HHE, OV.VTUN..HHN, OV.VTUN..HHZ,
+			OV.CCOL..BHE, OV.CCOL..BHN, OV.CCOL..BHZ, OV.CCOL..HHE,
+			OV.CCOL..HHN, OV.CCOL..HHZ, OV.CCOL..HNE, OV.CCOL..HNN,
+			OV.CCOL..HNZ, OV.CCOL..LHE, OV.CCOL..LHN, OV.CCOL..LHZ,
+			OV.HATI..HHE, OV.HATI..HHN, OV.HATI..HHZ, OV.HATI..HNE,
+			OV.HATI..HNN, OV.HATI..HNZ, OV.HDC3..HNE, OV.HDC3..HNN,
+			OV.HDC3..HNZ, OV.HDC3..BHE, OV.HDC3..BHN, OV.HDC3..BHZ,
+			OV.HDC3..HHE, OV.HDC3..HHN, OV.HDC3..HHZ, OV.HDC3..LHE,
+			OV.HDC3..LHN, OV.HDC3..LHZ, OV.MRVA..HHE, OV.MRVA..HHN,
+			OV.MRVA..HHZ, OV.OCM..BHE, OV.OCM..BHN, OV.OCM..BHZ, OV.OCM..HHE,
+			OV.OCM..HHN, OV.OCM..HHZ, OV.OCM..HNE, OV.OCM..HNN, OV.OCM..HNZ,
+			OV.OCM..LHE, OV.OCM..LHN, OV.OCM..LHZ, OV.POTG..HHE, OV.POTG..HHN,
+			OV.POTG..HHZ, OV.POTG..HNE, OV.POTG..HNN, OV.POTG..HNZ,
+			OV.QPSB..HHE, OV.QPSB..HHN, OV.QPSB..HHZ, OV.SAJU..HHE,
+			OV.SAJU..HHN, OV.SAJU..HHZ, OV.SRBA..HHE, OV.SRBA..HHN,
+			OV.SRBA..HHZ, OV.SRBA..HNE, OV.SRBA..HNN, OV.SRBA..HNZ,
+			OV.VAVL..HHE, OV.VAVL..HHN, OV.VAVL..HHZ, OV.VICA..HHE,
+			OV.VICA..HHN, OV.VICA..HHZ, OV.VIRE..HHE, OV.VIRE..HHN,
+			OV.VIRE..HHZ, OV.VPTE..HHE, OV.VPTE..HHN, OV.VPTE..HHZ,
+			OV.VPVF..HHE, OV.VPVF..HHN, OV.VPVF..HHZ, OV.VRLE..HHE,
+			OV.VRLE..HHN, OV.VRLE..HHZ, OV.VTCV..HHE, OV.VTCV..HHN,
+			OV.VTCV..HHZ, OV.VTLA..HHE, OV.VTLA..HHN, OV.VTLA..HHZ,
+			OV.VTRE..HHE, OV.VTRE..HHN, OV.VTRE..HHZ, OV.VTUC..HHE,
+			OV.VTUC..HHN, OV.VTUC..HHZ, OV.VTUC..EHZ, OV.CAO2..BHE,
+			OV.CAO2..BHN, OV.CAO2..BHZ, OV.CAO2..HHE, OV.CAO2..HHN,
+			OV.CAO2..HHZ, OV.CAO2..HNE, OV.CAO2..HNE, OV.CAO2..HNN,
+			OV.CAO2..HNN, OV.CAO2..HNZ, OV.CAO2..HNZ, OV.CAO2..LHE,
+			OV.CAO2..LHN, OV.CAO2..LHZ, OV.CRPO..HHE, OV.CRPO..HHN,
+			OV.CRPO..HHZ, OV.CTCR..EHZ, OV.CTCR..HHE, OV.CTCR..HHN,
+			OV.CTCR..HHZ, OV.CTCR..HNE, OV.CTCR..HNN, OV.CTCR..HNZ,
+			OV.GRZA..HHE, OV.GRZA..HHN, OV.GRZA..HHZ, OV.HAYA..HHE,
+			OV.HAYA..HHN, OV.HAYA..HHZ, OV.HRIU..HHE, OV.HRIU..HHN,
+			OV.HRIU..HHZ, OV.INDI..HHE, OV.INDI..HHN, OV.INDI..HHZ,
+			OV.INDI..HNE, OV.INDI..HNN, OV.INDI..HNZ, OV.JACO..BHE,
+			OV.JACO..BHN, OV.JACO..BHZ, OV.JACO..HHE, OV.JACO..HHN,
+			OV.JACO..HHZ, OV.JACO..HNE, OV.JACO..HNN, OV.JACO..HNZ,
+			OV.JACO..LHE, OV.JACO..LHN, OV.JACO..LHZ, OV.JUDI..HHE,
+			OV.JUDI..HHN, OV.JUDI..HHZ, OV.NARJ..HHE, OV.NARJ..HHN,
+			OV.NARJ..HHZ, OV.OCHAL..HHE, OV.OCHAL..HHN, OV.OCHAL..HHZ,
+			OV.OCHAL..HNE, OV.OCHAL..HNN, OV.OCHAL..HNZ, OV.PJIM..BHE,
+			OV.PJIM..BHN, OV.PJIM..BHZ, OV.PJIM..HHE, OV.PJIM..HHN,
+			OV.PJIM..HHZ, OV.PJIM..HNE, OV.PJIM..HNN, OV.PJIM..HNZ,
+			OV.PJIM..LHE, OV.PJIM..LHN, OV.PJIM..LHZ, OV.PUJE..EHE,
+			OV.PUJE..EHN, OV.PUJE..EHZ, OV.RIFO..BHE, OV.RIFO..BHN,
+			OV.RIFO..BHZ, OV.RIFO..HHE, OV.RIFO..HHN, OV.RIFO..HHZ,
+			OV.RIFO..HNE, OV.RIFO..HNN, OV.RIFO..HNZ, OV.RIFO..LHE,
+			OV.RIFO..LHN, OV.RIFO..LHZ, OV.RIMA..HHE, OV.RIMA..HHN,
+			OV.RIMA..HHZ, OV.RIMA..HNE, OV.RIMA..HNN, OV.RIMA..HNZ,
+			OV.VACR..HHE, OV.VACR..HHN, OV.VACR..HHZ, OV.VIMO..HHE,
+			OV.VIMO..HHN, OV.VIMO..HHZ</description>
+      <Style>
+        <ListStyle>
+          <listItemType>check</listItemType>
+          <bgColor>00ffff</bgColor>
+          <maxSnippetLines>5</maxSnippetLines>
+        </ListStyle>
+      </Style>
+      <Placemark>
+        <name>OV.BATAN</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-83.376100,10.097800,0</coordinates>
+        </Point>
+        <description>Station BATAN (BATAN, Limon)
+	Station Code: BATAN
+	Channel Count: None/None (Selected/Total)
+	2007-12-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 10.10, Longitude: -83.38, Elevation: 54.0 m
+	Available Channels:
+		BATAN..HHE, BATAN..HHN, BATAN..HHZ, BATAN..BHE, BATAN..BHN,
+		BATAN..BHZ, BATAN..HNE, BATAN..HNN, BATAN..HNZ, BATAN..LHE,
+		BATAN..LHN, BATAN..LHZ</description>
+        <TimeSpan>
+          <begin>2007-12-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.CDITO</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-82.872700,8.573200,0</coordinates>
+        </Point>
+        <description>Station CDITO (COLORADITO, Corredores)
+	Station Code: CDITO
+	Channel Count: None/None (Selected/Total)
+	2008-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 8.57, Longitude: -82.87, Elevation: 118.0 m
+	Available Channels:
+		CDITO..HHE, CDITO..HHN, CDITO..HHZ, CDITO..BHE, CDITO..BHN,
+		CDITO..BHZ, CDITO..HNE, CDITO..HNN, CDITO..HNZ, CDITO..LHE,
+		CDITO..LHN, CDITO..LHZ</description>
+        <TimeSpan>
+          <begin>2008-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.CDM</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-83.763700,9.553700,0</coordinates>
+        </Point>
+        <description>Station CDM (CERRO DE LA MUERTE, San Jose)
+	Station Code: CDM
+	Channel Count: None/None (Selected/Total)
+	2010-08-09T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 9.55, Longitude: -83.76, Elevation: 3494.0 m
+	Available Channels:
+		CDM..HHE, CDM..HHN, CDM..HHZ, CDM..BHE, CDM..BHN, CDM..BHZ,
+		CDM..HNE, CDM..HNN, CDM..HNZ, CDM..LHE, CDM..LHN, CDM..LHZ</description>
+        <TimeSpan>
+          <begin>2010-08-09T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.COVE</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-84.401900,10.719500,0</coordinates>
+        </Point>
+        <description>Station COVE (COOPE VEGA, San Carlos, Alajuela)
+	Station Code: COVE
+	Channel Count: None/None (Selected/Total)
+	2010-06-03T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 10.72, Longitude: -84.40, Elevation: 115.0 m
+	Available Channels:
+		COVE..HHE, COVE..HHN, COVE..HHZ, COVE..BHE, COVE..BHN, COVE..BHZ,
+		COVE..HNE, COVE..HNN, COVE..HNZ, COVE..LHE, COVE..LHN, COVE..LHZ</description>
+        <TimeSpan>
+          <begin>2010-06-03T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.DUNO</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-85.493700,10.079100,0</coordinates>
+        </Point>
+        <description>Station DUNO (DULCE NOMBRE, Nicoya, Guanacaste)
+	Station Code: DUNO
+	Channel Count: None/None (Selected/Total)
+	2010-06-17T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 10.08, Longitude: -85.49, Elevation: 174.0 m
+	Available Channels:
+		DUNO..HHE, DUNO..HHN, DUNO..HHZ, DUNO..BHE, DUNO..BHN, DUNO..BHZ,
+		DUNO..HNE, DUNO..HNN, DUNO..HNZ, DUNO..LHE, DUNO..LHN, DUNO..LHZ</description>
+        <TimeSpan>
+          <begin>2010-06-17T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.HZTE</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-85.595400,10.713700,0</coordinates>
+        </Point>
+        <description>Station HZTE (HORIZONTES, Guanacaste)
+	Station Code: HZTE
+	Channel Count: None/None (Selected/Total)
+	2008-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 10.71, Longitude: -85.60, Elevation: 194.0 m
+	Available Channels:
+		HZTE..HHE, HZTE..HHN, HZTE..HHZ, HZTE..BHE, HZTE..BHN, HZTE..BHZ,
+		HZTE..HNE, HZTE..HNN, HZTE..HNZ, HZTE..LHE, HZTE..LHN, HZTE..LHZ</description>
+        <TimeSpan>
+          <begin>2008-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.LAFE</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-84.910300,9.807200,0</coordinates>
+        </Point>
+        <description>Station LAFE (Finca La Fe,Paquera, Puntarenas)
+	Station Code: LAFE
+	Channel Count: None/None (Selected/Total)
+	2000-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 9.81, Longitude: -84.91, Elevation: 69.0 m
+	Available Channels:
+		LAFE..HHE, LAFE..HHN, LAFE..HHZ, LAFE..HNE, LAFE..HNN, LAFE..HNZ</description>
+        <TimeSpan>
+          <begin>2000-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.ORTG</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-85.459000,10.362300,0</coordinates>
+        </Point>
+        <description>Station ORTG (Ortega, Santa Cruz, Guanacaste)
+	Station Code: ORTG
+	Channel Count: None/None (Selected/Total)
+	2012-10-03T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 10.36, Longitude: -85.46, Elevation: 760.0 m
+	Available Channels:
+		ORTG..BHE, ORTG..BHN, ORTG..BHZ, ORTG..HHE, ORTG..HHN, ORTG..HHZ,
+		ORTG..HNE, ORTG..HNN, ORTG..HNZ, ORTG..LHE, ORTG..LHN, ORTG..LHZ</description>
+        <TimeSpan>
+          <begin>2012-10-03T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.PEZE</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-83.677500,9.382600,0</coordinates>
+        </Point>
+        <description>Station PEZE (PEREZ ZELEDON, Campus UNA, Perez Zeledon, San Jose)
+	Station Code: PEZE
+	Channel Count: None/None (Selected/Total)
+	2010-06-03T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 9.38, Longitude: -83.68, Elevation: 807.0 m
+	Available Channels:
+		PEZE..HHE, PEZE..HHN, PEZE..HHZ, PEZE..BHE, PEZE..BHN, PEZE..BHZ,
+		PEZE..HNE, PEZE..HNN, PEZE..HNZ, PEZE..LHE, PEZE..LHN, PEZE..LHZ</description>
+        <TimeSpan>
+          <begin>2010-06-03T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.RIOS</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-83.514300,8.700500,0</coordinates>
+        </Point>
+        <description>Station RIOS (RINCON, Osa)
+	Station Code: RIOS
+	Channel Count: None/None (Selected/Total)
+	2008-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 8.70, Longitude: -83.51, Elevation: 81.0 m
+	Available Channels:
+		RIOS..HHE, RIOS..HHN, RIOS..HHZ, RIOS..BHE, RIOS..BHN, RIOS..BHZ,
+		RIOS..HNE, RIOS..HNN, RIOS..HNZ, RIOS..LHE, RIOS..LHN, RIOS..LHZ</description>
+        <TimeSpan>
+          <begin>2008-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.VTCE</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-83.756800,10.024600,0</coordinates>
+        </Point>
+        <description>Station VTCE (CRATER ESTE, Volcan Turrialba)
+	Station Code: VTCE
+	Channel Count: None/None (Selected/Total)
+	2010-04-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 10.02, Longitude: -83.76, Elevation: 3178.0 m
+	Available Channels:
+		VTCE..HHE, VTCE..HHN, VTCE..HHZ</description>
+        <TimeSpan>
+          <begin>2010-04-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.VTCG</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-83.758600,10.014700,0</coordinates>
+        </Point>
+        <description>Station VTCG (CASA GUARDA, Volcan Turrialba)
+	Station Code: VTCG
+	Channel Count: None/None (Selected/Total)
+	2010-04-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 10.01, Longitude: -83.76, Elevation: 3136.0 m
+	Available Channels:
+		VTCG..HHE, VTCG..HHN, VTCG..HHZ</description>
+        <TimeSpan>
+          <begin>2010-04-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.VTUN</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-83.763500,10.022600,0</coordinates>
+        </Point>
+        <description>Station VTUN (CRATER CENTRAL, Volcan Turrialba, Cartago)
+	Station Code: VTUN
+	Channel Count: None/None (Selected/Total)
+	2010-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 10.02, Longitude: -83.76, Elevation: 3239.0 m
+	Available Channels:
+		VTUN..HHE, VTUN..HHN, VTUN..HHZ</description>
+        <TimeSpan>
+          <begin>2010-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.CCOL</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-82.973400,8.407500,0</coordinates>
+        </Point>
+        <description>Station CCOL (Caracol de Corredores, Puntarenas)
+	Station Code: CCOL
+	Channel Count: None/None (Selected/Total)
+	2014-10-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 8.41, Longitude: -82.97, Elevation: 89.0 m
+	Available Channels:
+		CCOL..BHE, CCOL..BHN, CCOL..BHZ, CCOL..HHE, CCOL..HHN, CCOL..HHZ,
+		CCOL..HNE, CCOL..HNN, CCOL..HNZ, CCOL..LHE, CCOL..LHN, CCOL..LHZ</description>
+        <TimeSpan>
+          <begin>2014-10-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.HATI</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-85.700000,10.298600,0</coordinates>
+        </Point>
+        <description>Station HATI (HATILLO)
+	Station Code: HATI
+	Channel Count: None/None (Selected/Total)
+	2000-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 10.30, Longitude: -85.70, Elevation: 56.0 m
+	Available Channels:
+		HATI..HHE, HATI..HHN, HATI..HHZ, HATI..HNE, HATI..HNN, HATI..HNZ</description>
+        <TimeSpan>
+          <begin>2000-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.HDC3</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-84.111400,10.002100,0</coordinates>
+        </Point>
+        <description>Station HDC3 (HEREDIA, Heredia)
+	Station Code: HDC3
+	Channel Count: None/None (Selected/Total)
+	2008-10-20T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 10.00, Longitude: -84.11, Elevation: 1175.0 m
+	Available Channels:
+		HDC3..HNE, HDC3..HNN, HDC3..HNZ, HDC3..BHE, HDC3..BHN, HDC3..BHZ,
+		HDC3..HHE, HDC3..HHN, HDC3..HHZ, HDC3..LHE, HDC3..LHN, HDC3..LHZ</description>
+        <TimeSpan>
+          <begin>2008-10-20T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.MRVA</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-83.442500,9.824000,0</coordinates>
+        </Point>
+        <description>Station MRVA (Moravia de Chirripo, San Jose)
+	Station Code: MRVA
+	Channel Count: None/None (Selected/Total)
+	2014-10-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 9.82, Longitude: -83.44, Elevation: 1202.0 m
+	Available Channels:
+		MRVA..HHE, MRVA..HHN, MRVA..HHZ</description>
+        <TimeSpan>
+          <begin>2014-10-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.OCM</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-83.962300,9.894100,0</coordinates>
+        </Point>
+        <description>Station OCM (Ochomogo, Cartago)
+	Station Code: OCM
+	Channel Count: None/None (Selected/Total)
+	2000-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 9.89, Longitude: -83.96, Elevation: 1607.0 m
+	Available Channels:
+		OCM..BHE, OCM..BHN, OCM..BHZ, OCM..HHE, OCM..HHN, OCM..HHZ,
+		OCM..HNE, OCM..HNN, OCM..HNZ, OCM..LHE, OCM..LHN, OCM..LHZ</description>
+        <TimeSpan>
+          <begin>2000-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.POTG</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-83.118900,9.052500,0</coordinates>
+        </Point>
+        <description>Station POTG (Potrero Grande  , Buenos Aires , Puntarenas)
+	Station Code: POTG
+	Channel Count: None/None (Selected/Total)
+	2014-04-09T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 9.05, Longitude: -83.12, Elevation: 674.0 m
+	Available Channels:
+		POTG..HHE, POTG..HHN, POTG..HHZ, POTG..HNE, POTG..HNN, POTG..HNZ</description>
+        <TimeSpan>
+          <begin>2014-04-09T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.QPSB</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-84.123900,9.391900,0</coordinates>
+        </Point>
+        <description>Station QPSB (QUEPOS, Puntarenas)
+	Station Code: QPSB
+	Channel Count: None/None (Selected/Total)
+	2012-02-09T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 9.39, Longitude: -84.12, Elevation: 52.0 m
+	Available Channels:
+		QPSB..HHE, QPSB..HHN, QPSB..HHZ</description>
+        <TimeSpan>
+          <begin>2012-02-09T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.SAJU</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-85.710500,10.067300,0</coordinates>
+        </Point>
+        <description>Station SAJU (San Juanillo, Guanacaste)
+	Station Code: SAJU
+	Channel Count: None/None (Selected/Total)
+	2000-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 10.07, Longitude: -85.71, Elevation: 90.0 m
+	Available Channels:
+		SAJU..HHE, SAJU..HHN, SAJU..HHZ</description>
+        <TimeSpan>
+          <begin>2000-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.SRBA</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-83.360100,9.232100,0</coordinates>
+        </Point>
+        <description>Station SRBA (San Rafael, Buenos Aires, Costa Rica)
+	Station Code: SRBA
+	Channel Count: None/None (Selected/Total)
+	2014-05-22T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 9.23, Longitude: -83.36, Elevation: 974.0 m
+	Available Channels:
+		SRBA..HHE, SRBA..HHN, SRBA..HHZ, SRBA..HNE, SRBA..HNN, SRBA..HNZ</description>
+        <TimeSpan>
+          <begin>2014-05-22T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.VAVL</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-84.709100,10.437300,0</coordinates>
+        </Point>
+        <description>Station VAVL (VAVL, Volcan Arenal, Volcano Lodge)
+	Station Code: VAVL
+	Channel Count: None/None (Selected/Total)
+	2012-04-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 10.44, Longitude: -84.71, Elevation: 749.0 m
+	Available Channels:
+		VAVL..HHE, VAVL..HHN, VAVL..HHZ</description>
+        <TimeSpan>
+          <begin>2012-04-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.VICA</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-83.844600,9.984500,0</coordinates>
+        </Point>
+        <description>Station VICA (Crater Activo, Volcan Irazu)
+	Station Code: VICA
+	Channel Count: None/None (Selected/Total)
+	2014-04-24T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 9.98, Longitude: -83.84, Elevation: 3358.0 m
+	Available Channels:
+		VICA..HHE, VICA..HHN, VICA..HHZ</description>
+        <TimeSpan>
+          <begin>2014-04-24T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.VIRE</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-83.897500,9.966800,0</coordinates>
+        </Point>
+        <description>Station VIRE (Volcan irazu hacienda Retes)
+	Station Code: VIRE
+	Channel Count: None/None (Selected/Total)
+	2012-05-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 9.97, Longitude: -83.90, Elevation: 2971.0 m
+	Available Channels:
+		VIRE..HHE, VIRE..HHN, VIRE..HHZ</description>
+        <TimeSpan>
+          <begin>2012-05-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.VPTE</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-84.198500,10.171800,0</coordinates>
+        </Point>
+        <description>Station VPTE (Terranova, Volcan Poas)
+	Station Code: VPTE
+	Channel Count: None/None (Selected/Total)
+	2013-09-20T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 10.17, Longitude: -84.20, Elevation: 2109.0 m
+	Available Channels:
+		VPTE..HHE, VPTE..HHN, VPTE..HHZ</description>
+        <TimeSpan>
+          <begin>2013-09-20T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.VPVF</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-84.229700,10.204500,0</coordinates>
+        </Point>
+        <description>Station VPVF (VPVF, von Frantzius)
+	Station Code: VPVF
+	Channel Count: None/None (Selected/Total)
+	2014-03-25T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 10.20, Longitude: -84.23, Elevation: 2431.0 m
+	Available Channels:
+		VPVF..HHE, VPVF..HHN, VPVF..HHZ</description>
+        <TimeSpan>
+          <begin>2014-03-25T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.VRLE</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-85.365200,10.788300,0</coordinates>
+        </Point>
+        <description>Station VRLE (La Escondida, Volcán Rincón de la Vieja, Guanaca)
+	Station Code: VRLE
+	Channel Count: None/None (Selected/Total)
+	2014-05-23T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 10.79, Longitude: -85.37, Elevation: 921.0 m
+	Available Channels:
+		VRLE..HHE, VRLE..HHN, VRLE..HHZ</description>
+        <TimeSpan>
+          <begin>2014-05-23T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.VTCV</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-83.726700,9.983100,0</coordinates>
+        </Point>
+        <description>Station VTCV (VTCV, Calle Vargas, Turrialba)
+	Station Code: VTCV
+	Channel Count: None/None (Selected/Total)
+	2012-04-23T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 9.98, Longitude: -83.73, Elevation: 1664.0 m
+	Available Channels:
+		VTCV..HHE, VTCV..HHN, VTCV..HHZ</description>
+        <TimeSpan>
+          <begin>2012-04-23T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.VTLA</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-83.775200,10.002700,0</coordinates>
+        </Point>
+        <description>Station VTLA (VTLA, Volcan Turrialba)
+	Station Code: VTLA
+	Channel Count: None/None (Selected/Total)
+	2014-11-02T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 10.00, Longitude: -83.78, Elevation: 2724.0 m
+	Available Channels:
+		VTLA..HHE, VTLA..HHN, VTLA..HHZ</description>
+        <TimeSpan>
+          <begin>2014-11-02T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.VTRE</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-83.794500,10.001800,0</coordinates>
+        </Point>
+        <description>Station VTRE (Volcan Turrialba, Hacienda Retiro)
+	Station Code: VTRE
+	Channel Count: None/None (Selected/Total)
+	2012-06-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 10.00, Longitude: -83.79, Elevation: 2706.0 m
+	Available Channels:
+		VTRE..HHE, VTRE..HHN, VTRE..HHZ</description>
+        <TimeSpan>
+          <begin>2012-06-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.VTUC</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-83.762000,10.024000,0</coordinates>
+        </Point>
+        <description>Station VTUC (CRATER, Volcan Turrialba, Cartago)
+	Station Code: VTUC
+	Channel Count: None/None (Selected/Total)
+	1984-04-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 10.02, Longitude: -83.76, Elevation: 3191.0 m
+	Available Channels:
+		VTUC..HHE, VTUC..HHN, VTUC..HHZ, VTUC..EHZ</description>
+        <TimeSpan>
+          <begin>1984-04-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.CAO2</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-85.107000,9.688000,0</coordinates>
+        </Point>
+        <description>Station CAO2 (Cobano, Puntarenas)
+	Station Code: CAO2
+	Channel Count: None/None (Selected/Total)
+	2012-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 9.69, Longitude: -85.11, Elevation: 179.0 m
+	Available Channels:
+		CAO2..BHE, CAO2..BHN, CAO2..BHZ, CAO2..HHE, CAO2..HHN, CAO2..HHZ,
+		CAO2..HNE, CAO2..HNE, CAO2..HNN, CAO2..HNN, CAO2..HNZ, CAO2..HNZ,
+		CAO2..LHE, CAO2..LHN, CAO2..LHZ</description>
+        <TimeSpan>
+          <begin>2012-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.CRPO</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-84.226100,10.195300,0</coordinates>
+        </Point>
+        <description>Station CRPO (crater poas)
+	Station Code: CRPO
+	Channel Count: None/None (Selected/Total)
+	2011-10-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 10.20, Longitude: -84.23, Elevation: 2471.0 m
+	Available Channels:
+		CRPO..HHE, CRPO..HHN, CRPO..HHZ</description>
+        <TimeSpan>
+          <begin>2011-10-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.CTCR</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-82.759300,8.896100,0</coordinates>
+        </Point>
+        <description>Station CTCR (Coton, Coto Brus)
+	Station Code: CTCR
+	Channel Count: None/None (Selected/Total)
+	1984-04-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 8.90, Longitude: -82.76, Elevation: 1620.0 m
+	Available Channels:
+		CTCR..EHZ, CTCR..HHE, CTCR..HHN, CTCR..HHZ, CTCR..HNE, CTCR..HNN,
+		CTCR..HNZ</description>
+        <TimeSpan>
+          <begin>1984-04-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.GRZA</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-85.635600,9.915500,0</coordinates>
+        </Point>
+        <description>Station GRZA (Playa Garza)
+	Station Code: GRZA
+	Channel Count: None/None (Selected/Total)
+	2000-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 9.92, Longitude: -85.64, Elevation: 39.0 m
+	Available Channels:
+		GRZA..HHE, GRZA..HHN, GRZA..HHZ</description>
+        <TimeSpan>
+          <begin>2000-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.HAYA</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-83.842800,9.980100,0</coordinates>
+        </Point>
+        <description>Station HAYA (Volcan Irazu)
+	Station Code: HAYA
+	Channel Count: None/None (Selected/Total)
+	1984-04-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 9.98, Longitude: -83.84, Elevation: 3245.0 m
+	Available Channels:
+		HAYA..HHE, HAYA..HHN, HAYA..HHZ</description>
+        <TimeSpan>
+          <begin>1984-04-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.HRIU</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-85.750100,10.515800,0</coordinates>
+        </Point>
+        <description>Station HRIU (Hotel RIU, Guanacaste)
+	Station Code: HRIU
+	Channel Count: None/None (Selected/Total)
+	2000-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 10.52, Longitude: -85.75, Elevation: 309.0 m
+	Available Channels:
+		HRIU..HHE, HRIU..HHN, HRIU..HHZ</description>
+        <TimeSpan>
+          <begin>2000-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.INDI</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-85.502200,9.864700,0</coordinates>
+        </Point>
+        <description>Station INDI (INDI, Punta Indio, Guanacaste)
+	Station Code: INDI
+	Channel Count: None/None (Selected/Total)
+	2012-10-10T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 9.86, Longitude: -85.50, Elevation: 74.0 m
+	Available Channels:
+		INDI..HHE, INDI..HHN, INDI..HHZ, INDI..HNE, INDI..HNN, INDI..HNZ</description>
+        <TimeSpan>
+          <begin>2012-10-10T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.JACO</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-84.659500,9.662400,0</coordinates>
+        </Point>
+        <description>Station JACO (JACO, Garabito, Puntarenas)
+	Station Code: JACO
+	Channel Count: None/None (Selected/Total)
+	2011-02-18T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 9.66, Longitude: -84.66, Elevation: 85.0 m
+	Available Channels:
+		JACO..BHE, JACO..BHN, JACO..BHZ, JACO..HHE, JACO..HHN, JACO..HHZ,
+		JACO..HNE, JACO..HNN, JACO..HNZ, JACO..LHE, JACO..LHN, JACO..LHZ</description>
+        <TimeSpan>
+          <begin>2011-02-18T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.JUDI</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-85.538800,10.165900,0</coordinates>
+        </Point>
+        <description>Station JUDI (Juan Diaz, Guanacaste)
+	Station Code: JUDI
+	Channel Count: None/None (Selected/Total)
+	2012-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 10.17, Longitude: -85.54, Elevation: 702.0 m
+	Available Channels:
+		JUDI..HHE, JUDI..HHN, JUDI..HHZ</description>
+        <TimeSpan>
+          <begin>2012-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.NARJ</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-85.543700,9.972000,0</coordinates>
+        </Point>
+        <description>Station NARJ (Naranjo)
+	Station Code: NARJ
+	Channel Count: None/None (Selected/Total)
+	2012-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 9.97, Longitude: -85.54, Elevation: 576.0 m
+	Available Channels:
+		NARJ..HHE, NARJ..HHN, NARJ..HHZ</description>
+        <TimeSpan>
+          <begin>2012-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.OCHAL</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-83.645600,9.097600,0</coordinates>
+        </Point>
+        <description>Station OCHAL (Ojochal, Costa Rica)
+	Station Code: OCHAL
+	Channel Count: None/None (Selected/Total)
+	2016-02-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 9.10, Longitude: -83.65, Elevation: 137.0 m
+	Available Channels:
+		OCHAL..HHE, OCHAL..HHN, OCHAL..HHZ, OCHAL..HNE, OCHAL..HNN,
+		OCHAL..HNZ</description>
+        <TimeSpan>
+          <begin>2016-02-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.PJIM</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-83.308200,8.501000,0</coordinates>
+        </Point>
+        <description>Station PJIM (Puerto Jimenez, Puntarenas)
+	Station Code: PJIM
+	Channel Count: None/None (Selected/Total)
+	2016-04-19T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 8.50, Longitude: -83.31, Elevation: 59.0 m
+	Available Channels:
+		PJIM..BHE, PJIM..BHN, PJIM..BHZ, PJIM..HHE, PJIM..HHN, PJIM..HHZ,
+		PJIM..HNE, PJIM..HNN, PJIM..HNZ, PJIM..LHE, PJIM..LHN, PJIM..LHZ</description>
+        <TimeSpan>
+          <begin>2016-04-19T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.PUJE</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-85.272500,10.113900,0</coordinates>
+        </Point>
+        <description>Station PUJE (Puerto Jesus Guanacaste)
+	Station Code: PUJE
+	Channel Count: None/None (Selected/Total)
+	2000-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 10.11, Longitude: -85.27, Elevation: 42.0 m
+	Available Channels:
+		PUJE..EHE, PUJE..EHN, PUJE..EHZ</description>
+        <TimeSpan>
+          <begin>2000-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.RIFO</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-83.922800,10.317200,0</coordinates>
+        </Point>
+        <description>Station RIFO (RIO FRIO, Sarapiqui, Heredia)
+	Station Code: RIFO
+	Channel Count: None/None (Selected/Total)
+	2010-04-15T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 10.32, Longitude: -83.92, Elevation: 139.0 m
+	Available Channels:
+		RIFO..BHE, RIFO..BHN, RIFO..BHZ, RIFO..HHE, RIFO..HHN, RIFO..HHZ,
+		RIFO..HNE, RIFO..HNN, RIFO..HNZ, RIFO..LHE, RIFO..LHN, RIFO..LHZ</description>
+        <TimeSpan>
+          <begin>2010-04-15T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.RIMA</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-83.863600,9.766600,0</coordinates>
+        </Point>
+        <description>Station RIMA (Rio Macho)
+	Station Code: RIMA
+	Channel Count: None/None (Selected/Total)
+	2012-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 9.77, Longitude: -83.86, Elevation: 1665.0 m
+	Available Channels:
+		RIMA..HHE, RIMA..HHN, RIMA..HHZ, RIMA..HNE, RIMA..HNN, RIMA..HNZ</description>
+        <TimeSpan>
+          <begin>2012-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.VACR</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-84.675000,10.472000,0</coordinates>
+        </Point>
+        <description>Station VACR (Volcan Arenal)
+	Station Code: VACR
+	Channel Count: None/None (Selected/Total)
+	1984-04-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 10.47, Longitude: -84.67, Elevation: 370.0 m
+	Available Channels:
+		VACR..HHE, VACR..HHN, VACR..HHZ</description>
+        <TimeSpan>
+          <begin>1984-04-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>OV.VIMO</name>
+        <styleUrl>#station_1</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-83.943200,10.024200,0</coordinates>
+        </Point>
+        <description>Station VIMO (Monserrat, Cascajal, Coronado, Volcan Irazu)
+	Station Code: VIMO
+	Channel Count: None/None (Selected/Total)
+	2015-06-18T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 10.02, Longitude: -83.94, Elevation: 1754.0 m
+	Available Channels:
+		VIMO..HHE, VIMO..HHN, VIMO..HHZ</description>
+        <TimeSpan>
+          <begin>2015-06-18T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <TimeSpan>
+        <begin>1980-01-01T00:00:00.000000Z</begin>
+      </TimeSpan>
+    </Folder>
+    <Folder>
+      <name>GI</name>
+      <open>1</open>
+      <description>Network GI (Red Sismologica Nacional- Guatemala)
+	Station Count: None/None (Selected/Total)
+	1980-01-01T00:00:00.000000Z - --
+	Access: open
+	Contains:
+		Stations (9):
+			GI.AVPA (AVPA)
+			GI.CHIE (Esquipulas, Chiquimula)
+			GI.GUNB (GUNB)
+			GI.HUEH (Huehuetenango, Huehuetenango)
+			GI.IZAB (Izabal, Puerto Barrios)
+			GI.PETF (Flores, Peten)
+			GI.PETP (PETP)
+			GI.RETA (Retalhuleu, Retalhuleu)
+			GI.SRIX (SRIX)
+		Channels (42):
+			GI.AVPA..HHE, GI.AVPA..HHN, GI.AVPA..HHZ, GI.CHIE..HHE,
+			GI.CHIE..HHN, GI.CHIE..HHZ, GI.CHIE..HNE, GI.CHIE..HNN,
+			GI.CHIE..HNZ, GI.GUNB..HHE, GI.GUNB..HHN, GI.GUNB..HHZ,
+			GI.HUEH..HHE, GI.HUEH..HHN, GI.HUEH..HHZ, GI.HUEH..HNE,
+			GI.HUEH..HNN, GI.HUEH..HNZ, GI.IZAB..HHE, GI.IZAB..HHN,
+			GI.IZAB..HHZ, GI.IZAB..HNE, GI.IZAB..HNN, GI.IZAB..HNZ,
+			GI.PETF..HHE, GI.PETF..HHN, GI.PETF..HHZ, GI.PETF..HNE,
+			GI.PETF..HNN, GI.PETF..HNZ, GI.PETP..HHE, GI.PETP..HHN,
+			GI.PETP..HHZ, GI.RETA..HHE, GI.RETA..HHN, GI.RETA..HHZ,
+			GI.RETA..HNE, GI.RETA..HNN, GI.RETA..HNZ, GI.SRIX..HHE,
+			GI.SRIX..HHN, GI.SRIX..HHZ</description>
+      <Style>
+        <ListStyle>
+          <listItemType>check</listItemType>
+          <bgColor>00ffff</bgColor>
+          <maxSnippetLines>5</maxSnippetLines>
+        </ListStyle>
+      </Style>
+      <Placemark>
+        <name>GI.AVPA</name>
+        <styleUrl>#station_2</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-89.641700,15.397200,0</coordinates>
+        </Point>
+        <description>Station AVPA (AVPA)
+	Station Code: AVPA
+	Channel Count: None/None (Selected/Total)
+	2014-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 15.40, Longitude: -89.64, Elevation: 16.0 m
+	Available Channels:
+		AVPA..HHE, AVPA..HHN, AVPA..HHZ</description>
+        <TimeSpan>
+          <begin>2014-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>GI.CHIE</name>
+        <styleUrl>#station_2</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-89.341365,14.559928,0</coordinates>
+        </Point>
+        <description>Station CHIE (Esquipulas, Chiquimula)
+	Station Code: CHIE
+	Channel Count: None/None (Selected/Total)
+	2013-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 14.56, Longitude: -89.34, Elevation: 960.0 m
+	Available Channels:
+		CHIE..HHE, CHIE..HHN, CHIE..HHZ, CHIE..HNE, CHIE..HNN, CHIE..HNZ</description>
+        <TimeSpan>
+          <begin>2013-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>GI.GUNB</name>
+        <styleUrl>#station_2</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-90.345303,14.595731,0</coordinates>
+        </Point>
+        <description>Station GUNB (GUNB)
+	Station Code: GUNB
+	Channel Count: None/None (Selected/Total)
+	2014-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 14.60, Longitude: -90.35, Elevation: 2403.0 m
+	Available Channels:
+		GUNB..HHE, GUNB..HHN, GUNB..HHZ</description>
+        <TimeSpan>
+          <begin>2014-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>GI.HUEH</name>
+        <styleUrl>#station_2</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-91.502538,15.318176,0</coordinates>
+        </Point>
+        <description>Station HUEH (Huehuetenango, Huehuetenango)
+	Station Code: HUEH
+	Channel Count: None/None (Selected/Total)
+	2013-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 15.32, Longitude: -91.50, Elevation: 1870.0 m
+	Available Channels:
+		HUEH..HHE, HUEH..HHN, HUEH..HHZ, HUEH..HNE, HUEH..HNN, HUEH..HNZ</description>
+        <TimeSpan>
+          <begin>2013-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>GI.IZAB</name>
+        <styleUrl>#station_2</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-88.584326,15.730000,0</coordinates>
+        </Point>
+        <description>Station IZAB (Izabal, Puerto Barrios)
+	Station Code: IZAB
+	Channel Count: None/None (Selected/Total)
+	2013-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 15.73, Longitude: -88.58, Elevation: 10.0 m
+	Available Channels:
+		IZAB..HHE, IZAB..HHN, IZAB..HHZ, IZAB..HNE, IZAB..HNN, IZAB..HNZ</description>
+        <TimeSpan>
+          <begin>2013-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>GI.PETF</name>
+        <styleUrl>#station_2</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-89.866738,16.916298,0</coordinates>
+        </Point>
+        <description>Station PETF (Flores, Peten)
+	Station Code: PETF
+	Channel Count: None/None (Selected/Total)
+	2013-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 16.92, Longitude: -89.87, Elevation: 123.0 m
+	Available Channels:
+		PETF..HHE, PETF..HHN, PETF..HHZ, PETF..HNE, PETF..HNN, PETF..HNZ</description>
+        <TimeSpan>
+          <begin>2013-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>GI.PETP</name>
+        <styleUrl>#station_2</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-89.416873,16.326770,0</coordinates>
+        </Point>
+        <description>Station PETP (PETP)
+	Station Code: PETP
+	Channel Count: None/None (Selected/Total)
+	2014-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 16.33, Longitude: -89.42, Elevation: 517.0 m
+	Available Channels:
+		PETP..HHE, PETP..HHN, PETP..HHZ</description>
+        <TimeSpan>
+          <begin>2014-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>GI.RETA</name>
+        <styleUrl>#station_2</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-91.694935,14.524621,0</coordinates>
+        </Point>
+        <description>Station RETA (Retalhuleu, Retalhuleu)
+	Station Code: RETA
+	Channel Count: None/None (Selected/Total)
+	2013-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 14.52, Longitude: -91.69, Elevation: 205.0 m
+	Available Channels:
+		RETA..HHE, RETA..HHN, RETA..HHZ, RETA..HNE, RETA..HNN, RETA..HNZ</description>
+        <TimeSpan>
+          <begin>2013-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>GI.SRIX</name>
+        <styleUrl>#station_2</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-90.441306,14.171699,0</coordinates>
+        </Point>
+        <description>Station SRIX (SRIX)
+	Station Code: SRIX
+	Channel Count: None/None (Selected/Total)
+	2014-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 14.17, Longitude: -90.44, Elevation: 1494.0 m
+	Available Channels:
+		SRIX..HHE, SRIX..HHN, SRIX..HHZ</description>
+        <TimeSpan>
+          <begin>2014-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <TimeSpan>
+        <begin>1980-01-01T00:00:00.000000Z</begin>
+      </TimeSpan>
+    </Folder>
+    <Folder>
+      <name>SV</name>
+      <open>1</open>
+      <description>Network SV (Servicio Nacional de Estudios Territoriales (SNET), El Salvador)
+	Station Count: None/None (Selected/Total)
+	1980-01-01T00:00:00.000000Z - --
+	Access: open
+	Contains:
+		Stations (9):
+			SV.CNCH (Conchagua, El Salvador)
+			SV.MTO3 (Montecristo, El Salvador)
+			SV.PACA (Pacayal, El Salvador)
+			SV.SNET (Montecristo, El Salvador)
+			SV.CEDA (Z)
+			SV.JAYA (Z)
+			SV.NUBE (Z)
+			SV.PAVA (Z)
+			SV.TACO (TACACHICO)
+		Channels (47):
+			SV.CNCH..HHE, SV.CNCH..HHN, SV.CNCH..HHZ, SV.CNCH..HNE,
+			SV.CNCH..HNN, SV.CNCH..HNZ, SV.MTO3..HHE, SV.MTO3..HHN,
+			SV.MTO3..HHZ, SV.MTO3..BHZ, SV.MTO3..BLZ, SV.MTO3..HLE,
+			SV.MTO3..HLN, SV.MTO3..HLZ, SV.MTO3..LHZ, SV.PACA..HHE,
+			SV.PACA..HHN, SV.PACA..HHZ, SV.PACA..HNE, SV.PACA..HNN,
+			SV.PACA..HNZ, SV.SNET..BHE, SV.SNET..BHN, SV.SNET..BHZ,
+			SV.SNET..BLZ, SV.SNET..HHE, SV.SNET..HHN, SV.SNET..HHZ,
+			SV.SNET..HLE, SV.SNET..HLN, SV.SNET..HLZ, SV.SNET..LHZ,
+			SV.CEDA..HHE, SV.CEDA..HHN, SV.CEDA..HHZ, SV.JAYA..HHE,
+			SV.JAYA..HHN, SV.JAYA..HHZ, SV.NUBE..HHE, SV.NUBE..HHN,
+			SV.NUBE..HHZ, SV.PAVA..HHE, SV.PAVA..HHN, SV.PAVA..HHZ,
+			SV.TACO..HHE, SV.TACO..HHN, SV.TACO..HHZ</description>
+      <Style>
+        <ListStyle>
+          <listItemType>check</listItemType>
+          <bgColor>00ffff</bgColor>
+          <maxSnippetLines>5</maxSnippetLines>
+        </ListStyle>
+      </Style>
+      <Placemark>
+        <name>SV.CNCH</name>
+        <styleUrl>#station_3</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-87.833670,13.276330,0</coordinates>
+        </Point>
+        <description>Station CNCH (Conchagua, El Salvador)
+	Station Code: CNCH
+	Channel Count: None/None (Selected/Total)
+	2011-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 13.28, Longitude: -87.83, Elevation: 1056.0 m
+	Available Channels:
+		CNCH..HHE, CNCH..HHN, CNCH..HHZ, CNCH..HNE, CNCH..HNN, CNCH..HNZ</description>
+        <TimeSpan>
+          <begin>2011-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>SV.MTO3</name>
+        <styleUrl>#station_3</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-89.360630,14.398860,0</coordinates>
+        </Point>
+        <description>Station MTO3 (Montecristo, El Salvador)
+	Station Code: MTO3
+	Channel Count: None/None (Selected/Total)
+	2011-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 14.40, Longitude: -89.36, Elevation: 1830.0 m
+	Available Channels:
+		MTO3..HHE, MTO3..HHN, MTO3..HHZ, MTO3..BHZ, MTO3..BLZ, MTO3..HLE,
+		MTO3..HLN, MTO3..HLZ, MTO3..LHZ</description>
+        <TimeSpan>
+          <begin>2011-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>SV.PACA</name>
+        <styleUrl>#station_3</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-88.323330,13.469000,0</coordinates>
+        </Point>
+        <description>Station PACA (Pacayal, El Salvador)
+	Station Code: PACA
+	Channel Count: None/None (Selected/Total)
+	2011-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 13.47, Longitude: -88.32, Elevation: 1123.0 m
+	Available Channels:
+		PACA..HHE, PACA..HHN, PACA..HHZ, PACA..HNE, PACA..HNN, PACA..HNZ</description>
+        <TimeSpan>
+          <begin>2011-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>SV.SNET</name>
+        <styleUrl>#station_3</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-89.231500,13.686800,0</coordinates>
+        </Point>
+        <description>Station SNET (Montecristo, El Salvador)
+	Station Code: SNET
+	Channel Count: None/None (Selected/Total)
+	2004-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 13.69, Longitude: -89.23, Elevation: 775.0 m
+	Available Channels:
+		SNET..BHE, SNET..BHN, SNET..BHZ, SNET..BLZ, SNET..HHE, SNET..HHN,
+		SNET..HHZ, SNET..HLE, SNET..HLN, SNET..HLZ, SNET..LHZ</description>
+        <TimeSpan>
+          <begin>2004-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>SV.CEDA</name>
+        <styleUrl>#station_3</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-89.394850,13.802800,0</coordinates>
+        </Point>
+        <description>Station CEDA (Z)
+	Station Code: CEDA
+	Channel Count: None/None (Selected/Total)
+	2014-05-26T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 13.80, Longitude: -89.39, Elevation: 0.0 m
+	Available Channels:
+		CEDA..HHE, CEDA..HHN, CEDA..HHZ</description>
+        <TimeSpan>
+          <begin>2014-05-26T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>SV.JAYA</name>
+        <styleUrl>#station_3</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-89.448900,13.654250,0</coordinates>
+        </Point>
+        <description>Station JAYA (Z)
+	Station Code: JAYA
+	Channel Count: None/None (Selected/Total)
+	2014-05-26T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 13.65, Longitude: -89.45, Elevation: 0.0 m
+	Available Channels:
+		JAYA..HHE, JAYA..HHN, JAYA..HHZ</description>
+        <TimeSpan>
+          <begin>2014-05-26T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>SV.NUBE</name>
+        <styleUrl>#station_3</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-89.779910,13.902160,0</coordinates>
+        </Point>
+        <description>Station NUBE (Z)
+	Station Code: NUBE
+	Channel Count: None/None (Selected/Total)
+	2014-05-26T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 13.90, Longitude: -89.78, Elevation: 1306.4 m
+	Available Channels:
+		NUBE..HHE, NUBE..HHN, NUBE..HHZ</description>
+        <TimeSpan>
+          <begin>2014-05-26T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>SV.PAVA</name>
+        <styleUrl>#station_3</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-88.937120,13.712990,0</coordinates>
+        </Point>
+        <description>Station PAVA (Z)
+	Station Code: PAVA
+	Channel Count: None/None (Selected/Total)
+	2014-05-26T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 13.71, Longitude: -88.94, Elevation: 1019.8 m
+	Available Channels:
+		PAVA..HHE, PAVA..HHN, PAVA..HHZ</description>
+        <TimeSpan>
+          <begin>2014-05-26T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>SV.TACO</name>
+        <styleUrl>#station_3</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-89.353940,13.970290,0</coordinates>
+        </Point>
+        <description>Station TACO (TACACHICO)
+	Station Code: TACO
+	Channel Count: None/None (Selected/Total)
+	2014-05-26T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 13.97, Longitude: -89.35, Elevation: 357.0 m
+	Available Channels:
+		TACO..HHE, TACO..HHN, TACO..HHZ</description>
+        <TimeSpan>
+          <begin>2014-05-26T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <TimeSpan>
+        <begin>1980-01-01T00:00:00.000000Z</begin>
+      </TimeSpan>
+    </Folder>
+    <Folder>
+      <name>HN</name>
+      <open>1</open>
+      <description>Network HN (Honduras)
+	Station Count: None/None (Selected/Total)
+	1980-01-01T00:00:00.000000Z - --
+	Access: open
+	Contains:
+		Stations (9):
+			HN.AMPH (Honduras)
+			HN.CEIBH (Honduras)
+			HN.JUTIH (Honduras)
+			HN.MCAH (Honduras)
+			HN.ROTH (Honduras)
+			HN.SAPH (Honduras)
+			HN.SARH (Honduras)
+			HN.YORH (Honduras)
+			HN.YUSH (Honduras)
+		Channels (27):
+			HN.AMPH..EHE, HN.AMPH..EHN, HN.AMPH..EHZ, HN.CEIBH..EHE,
+			HN.CEIBH..EHN, HN.CEIBH..EHZ, HN.JUTIH..EHE, HN.JUTIH..EHN,
+			HN.JUTIH..EHZ, HN.MCAH..EHE, HN.MCAH..EHN, HN.MCAH..EHZ,
+			HN.ROTH..EHE, HN.ROTH..EHN, HN.ROTH..EHZ, HN.SAPH..EHE,
+			HN.SAPH..EHN, HN.SAPH..EHZ, HN.SARH..EHE, HN.SARH..EHN,
+			HN.SARH..EHZ, HN.YORH..EHE, HN.YORH..EHN, HN.YORH..EHZ,
+			HN.YUSH..EHE, HN.YUSH..EHN, HN.YUSH..EHZ</description>
+      <Style>
+        <ListStyle>
+          <listItemType>check</listItemType>
+          <bgColor>00ffff</bgColor>
+          <maxSnippetLines>5</maxSnippetLines>
+        </ListStyle>
+      </Style>
+      <Placemark>
+        <name>HN.AMPH</name>
+        <styleUrl>#station_4</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-87.658700,13.285800,0</coordinates>
+        </Point>
+        <description>Station AMPH (Honduras)
+	Station Code: AMPH
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 13.29, Longitude: -87.66, Elevation: 22.0 m
+	Available Channels:
+		AMPH..EHE, AMPH..EHN, AMPH..EHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>HN.CEIBH</name>
+        <styleUrl>#station_4</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.769333,15.759806,0</coordinates>
+        </Point>
+        <description>Station CEIBH (Honduras)
+	Station Code: CEIBH
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 15.76, Longitude: -86.77, Elevation: 53.0 m
+	Available Channels:
+		CEIBH..EHE, CEIBH..EHN, CEIBH..EHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>HN.JUTIH</name>
+        <styleUrl>#station_4</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.220194,14.674694,0</coordinates>
+        </Point>
+        <description>Station JUTIH (Honduras)
+	Station Code: JUTIH
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 14.67, Longitude: -86.22, Elevation: 457.0 m
+	Available Channels:
+		JUTIH..EHE, JUTIH..EHN, JUTIH..EHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>HN.MCAH</name>
+        <styleUrl>#station_4</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-88.034300,14.158300,0</coordinates>
+        </Point>
+        <description>Station MCAH (Honduras)
+	Station Code: MCAH
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 14.16, Longitude: -88.03, Elevation: 1273.0 m
+	Available Channels:
+		MCAH..EHE, MCAH..EHN, MCAH..EHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>HN.ROTH</name>
+        <styleUrl>#station_4</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.355800,16.393800,0</coordinates>
+        </Point>
+        <description>Station ROTH (Honduras)
+	Station Code: ROTH
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 16.39, Longitude: -86.36, Elevation: 19.0 m
+	Available Channels:
+		ROTH..EHE, ROTH..EHN, ROTH..EHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>HN.SAPH</name>
+        <styleUrl>#station_4</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-88.066194,15.507694,0</coordinates>
+        </Point>
+        <description>Station SAPH (Honduras)
+	Station Code: SAPH
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 15.51, Longitude: -88.07, Elevation: 731.0 m
+	Available Channels:
+		SAPH..EHE, SAPH..EHN, SAPH..EHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>HN.SARH</name>
+        <styleUrl>#station_4</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-88.760472,14.775750,0</coordinates>
+        </Point>
+        <description>Station SARH (Honduras)
+	Station Code: SARH
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 14.78, Longitude: -88.76, Elevation: 1113.0 m
+	Available Channels:
+		SARH..EHE, SARH..EHN, SARH..EHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>HN.YORH</name>
+        <styleUrl>#station_4</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-87.121800,15.120700,0</coordinates>
+        </Point>
+        <description>Station YORH (Honduras)
+	Station Code: YORH
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 15.12, Longitude: -87.12, Elevation: 720.0 m
+	Available Channels:
+		YORH..EHE, YORH..EHN, YORH..EHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>HN.YUSH</name>
+        <styleUrl>#station_4</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-86.842583,13.953917,0</coordinates>
+        </Point>
+        <description>Station YUSH (Honduras)
+	Station Code: YUSH
+	Channel Count: None/None (Selected/Total)
+	2001-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 13.95, Longitude: -86.84, Elevation: 928.0 m
+	Available Channels:
+		YUSH..EHE, YUSH..EHN, YUSH..EHZ</description>
+        <TimeSpan>
+          <begin>2001-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <TimeSpan>
+        <begin>1980-01-01T00:00:00.000000Z</begin>
+      </TimeSpan>
+    </Folder>
+    <Folder>
+      <name>CM</name>
+      <open>1</open>
+      <description>Network CM (Red Sismologica Nacional de Colombia)
+	Station Count: None/None (Selected/Total)
+	1980-01-01T00:00:00.000000Z - --
+	Access: open
+	Contains:
+		Stations (4):
+			CM.PRV (Providencia, Archipelago de San Andres, Colombia)
+			CM.HEL (Santa Helena, Antioquia,Colombia)
+			CM.RUS (La Rusia, Boyaca, Colombia)
+			CM.URI (Uribia, Guajira, Colombia)
+		Channels (24):
+			CM.PRV.01.BHE, CM.PRV.01.BHN, CM.PRV.01.BHZ, CM.PRV.00.BHE,
+			CM.PRV.00.BHN, CM.PRV.00.BHZ, CM.HEL.01.BHE, CM.HEL.01.BHN,
+			CM.HEL.01.BHZ, CM.HEL.00.BHE, CM.HEL.00.BHN, CM.HEL.00.BHZ,
+			CM.RUS.01.BHE, CM.RUS.01.BHN, CM.RUS.01.BHZ, CM.RUS.00.BHE,
+			CM.RUS.00.BHN, CM.RUS.00.BHZ, CM.URI.01.BHE, CM.URI.01.BHN,
+			CM.URI.01.BHZ, CM.URI.00.BHE, CM.URI.00.BHN, CM.URI.00.BHZ</description>
+      <Style>
+        <ListStyle>
+          <listItemType>check</listItemType>
+          <bgColor>00ffff</bgColor>
+          <maxSnippetLines>5</maxSnippetLines>
+        </ListStyle>
+      </Style>
+      <Placemark>
+        <name>CM.PRV</name>
+        <styleUrl>#station_5</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-81.364000,13.376000,0</coordinates>
+        </Point>
+        <description>Station PRV (Providencia, Archipelago de San Andres, Colombia)
+	Station Code: PRV
+	Channel Count: None/None (Selected/Total)
+	2012-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 13.38, Longitude: -81.36, Elevation: 63.0 m
+	Available Channels:
+		PRV.01.BHE, PRV.01.BHN, PRV.01.BHZ, PRV.00.BHE, PRV.00.BHN,
+		PRV.00.BHZ</description>
+        <TimeSpan>
+          <begin>2012-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>CM.HEL</name>
+        <styleUrl>#station_5</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-75.547700,6.234100,0</coordinates>
+        </Point>
+        <description>Station HEL (Santa Helena, Antioquia,Colombia)
+	Station Code: HEL
+	Channel Count: None/None (Selected/Total)
+	2008-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 6.23, Longitude: -75.55, Elevation: 2788.0 m
+	Available Channels:
+		HEL.01.BHE, HEL.01.BHN, HEL.01.BHZ, HEL.00.BHE, HEL.00.BHN,
+		HEL.00.BHZ</description>
+        <TimeSpan>
+          <begin>2008-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>CM.RUS</name>
+        <styleUrl>#station_5</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-73.083000,5.893000,0</coordinates>
+        </Point>
+        <description>Station RUS (La Rusia, Boyaca, Colombia)
+	Station Code: RUS
+	Channel Count: None/None (Selected/Total)
+	2008-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 5.89, Longitude: -73.08, Elevation: 3697.0 m
+	Available Channels:
+		RUS.01.BHE, RUS.01.BHN, RUS.01.BHZ, RUS.00.BHE, RUS.00.BHN,
+		RUS.00.BHZ</description>
+        <TimeSpan>
+          <begin>2008-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>CM.URI</name>
+        <styleUrl>#station_5</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-71.990000,11.700000,0</coordinates>
+        </Point>
+        <description>Station URI (Uribia, Guajira, Colombia)
+	Station Code: URI
+	Channel Count: None/None (Selected/Total)
+	2008-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 11.70, Longitude: -71.99, Elevation: 68.0 m
+	Available Channels:
+		URI.01.BHE, URI.01.BHN, URI.01.BHZ, URI.00.BHE, URI.00.BHN,
+		URI.00.BHZ</description>
+        <TimeSpan>
+          <begin>2008-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <TimeSpan>
+        <begin>1980-01-01T00:00:00.000000Z</begin>
+      </TimeSpan>
+    </Folder>
+    <Folder>
+      <name>CU</name>
+      <open>1</open>
+      <description>Network CU (Caribbean Network (USGS))
+	Station Count: None/None (Selected/Total)
+	1980-01-01T00:00:00.000000Z - --
+	Access: open
+	Contains:
+		Stations (2):
+			CU.TGUH (Tegucigalpa, Honduras)
+			CU.BCIP (Isla Barro Colorado, Panama)
+		Channels (12):
+			CU.TGUH.00.BH1, CU.TGUH.00.BH2, CU.TGUH.00.BHZ, CU.TGUH.00.LH1,
+			CU.TGUH.00.LH2, CU.TGUH.00.LHZ, CU.TGUH.20.LN1, CU.TGUH.20.LN2,
+			CU.TGUH.20.LNZ, CU.BCIP.00.BH1, CU.BCIP.00.BH2, CU.BCIP.00.BHZ</description>
+      <Style>
+        <ListStyle>
+          <listItemType>check</listItemType>
+          <bgColor>00ffff</bgColor>
+          <maxSnippetLines>5</maxSnippetLines>
+        </ListStyle>
+      </Style>
+      <Placemark>
+        <name>CU.TGUH</name>
+        <styleUrl>#station_6</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-87.273000,14.057000,0</coordinates>
+        </Point>
+        <description>Station TGUH (Tegucigalpa, Honduras)
+	Station Code: TGUH
+	Channel Count: None/None (Selected/Total)
+	2006-09-20T22:59:00.000000Z - 
+	Access: open 
+	Latitude: 14.06, Longitude: -87.27, Elevation: 1151.0 m
+	Available Channels:
+		TGUH.00.BH1, TGUH.00.BH2, TGUH.00.BHZ, TGUH.00.LH1, TGUH.00.LH2,
+		TGUH.00.LHZ, TGUH.20.LN1, TGUH.20.LN2, TGUH.20.LNZ</description>
+        <TimeSpan>
+          <begin>2006-09-20T22:59:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>CU.BCIP</name>
+        <styleUrl>#station_6</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-79.837300,9.166500,0</coordinates>
+        </Point>
+        <description>Station BCIP (Isla Barro Colorado, Panama)
+	Station Code: BCIP
+	Channel Count: None/None (Selected/Total)
+	2006-12-02T15:44:00.000000Z - 
+	Access: open 
+	Latitude: 9.17, Longitude: -79.84, Elevation: 61.0 m
+	Available Channels:
+		BCIP.00.BH1, BCIP.00.BH2, BCIP.00.BHZ</description>
+        <TimeSpan>
+          <begin>2006-12-02T15:44:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <TimeSpan>
+        <begin>1980-01-01T00:00:00.000000Z</begin>
+      </TimeSpan>
+    </Folder>
+    <Folder>
+      <name>PA</name>
+      <open>1</open>
+      <description>Network PA (ChiriNet)
+	Station Count: None/None (Selected/Total)
+	1980-01-01T00:00:00.000000Z - --
+	Access: open
+	Contains:
+		Stations (1):
+			PA.BRU2 (bru2, Barilles, OSOP, Panama)
+		Channels (12):
+			PA.BRU2..HHE, PA.BRU2..HHN, PA.BRU2..HHZ, PA.BRU2..HNE,
+			PA.BRU2..HNN, PA.BRU2..HNZ, PA.BRU2.30.HHE, PA.BRU2.30.HHN,
+			PA.BRU2.30.HHZ, PA.BRU2.30.HNE, PA.BRU2.30.HNN, PA.BRU2.30.HNZ</description>
+      <Style>
+        <ListStyle>
+          <listItemType>check</listItemType>
+          <bgColor>00ffff</bgColor>
+          <maxSnippetLines>5</maxSnippetLines>
+        </ListStyle>
+      </Style>
+      <Placemark>
+        <name>PA.BRU2</name>
+        <styleUrl>#station_7</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-82.687800,8.794000,0</coordinates>
+        </Point>
+        <description>Station BRU2 (bru2, Barilles, OSOP, Panama)
+	Station Code: BRU2
+	Channel Count: None/None (Selected/Total)
+	2000-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 8.79, Longitude: -82.69, Elevation: 1320.0 m
+	Available Channels:
+		BRU2..HHE, BRU2..HHN, BRU2..HHZ, BRU2..HNE, BRU2..HNN, BRU2..HNZ,
+		BRU2.30.HHE, BRU2.30.HHN, BRU2.30.HHZ, BRU2.30.HNE, BRU2.30.HNN,
+		BRU2.30.HNZ</description>
+        <TimeSpan>
+          <begin>2000-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <TimeSpan>
+        <begin>1980-01-01T00:00:00.000000Z</begin>
+      </TimeSpan>
+    </Folder>
+    <Folder>
+      <name>MX</name>
+      <open>1</open>
+      <description>Network MX (Mexican National Seismic Network)
+	Station Count: None/None (Selected/Total)
+	1980-01-01T00:00:00.000000Z - --
+	Access: open
+	Contains:
+		Stations (1):
+			MX.CCIG (Comitan, Chis. MX)
+		Channels (3):
+			MX.CCIG..BHE, MX.CCIG..BHN, MX.CCIG..BHZ</description>
+      <Style>
+        <ListStyle>
+          <listItemType>check</listItemType>
+          <bgColor>00ffff</bgColor>
+          <maxSnippetLines>5</maxSnippetLines>
+        </ListStyle>
+      </Style>
+      <Placemark>
+        <name>MX.CCIG</name>
+        <styleUrl>#station_8</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-92.136919,16.281885,0</coordinates>
+        </Point>
+        <description>Station CCIG (Comitan, Chis. MX)
+	Station Code: CCIG
+	Channel Count: None/None (Selected/Total)
+	2000-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 16.28, Longitude: -92.14, Elevation: 1625.0 m
+	Available Channels:
+		CCIG..BHE, CCIG..BHN, CCIG..BHZ</description>
+        <TimeSpan>
+          <begin>2000-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <TimeSpan>
+        <begin>1980-01-01T00:00:00.000000Z</begin>
+      </TimeSpan>
+    </Folder>
+    <Folder>
+      <name>G</name>
+      <open>1</open>
+      <description>Network G (GEOSCOPE)
+	Station Count: None/None (Selected/Total)
+	1980-01-01T00:00:00.000000Z - --
+	Access: open
+	Contains:
+		Stations (1):
+			G.HDC (Heredia, Costa Rica)
+		Channels (10):
+			G.HDC.00.BHE, G.HDC.00.BHN, G.HDC.00.BHZ, G.HDC.00.HNE,
+			G.HDC.00.HNN, G.HDC.00.HNZ, G.HDC.00.LDO, G.HDC.00.LHE,
+			G.HDC.00.LHN, G.HDC.00.LHZ</description>
+      <Style>
+        <ListStyle>
+          <listItemType>check</listItemType>
+          <bgColor>00ffff</bgColor>
+          <maxSnippetLines>5</maxSnippetLines>
+        </ListStyle>
+      </Style>
+      <Placemark>
+        <name>G.HDC</name>
+        <styleUrl>#station_9</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-84.111420,10.002010,0</coordinates>
+        </Point>
+        <description>Station HDC (Heredia, Costa Rica)
+	Station Code: HDC
+	Channel Count: None/None (Selected/Total)
+	2002-04-06T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 10.00, Longitude: -84.11, Elevation: 1186.0 m
+	Available Channels:
+		HDC.00.BHE, HDC.00.BHN, HDC.00.BHZ, HDC.00.HNE, HDC.00.HNN,
+		HDC.00.HNZ, HDC.00.LDO, HDC.00.LHE, HDC.00.LHN, HDC.00.LHZ</description>
+        <TimeSpan>
+          <begin>2002-04-06T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <TimeSpan>
+        <begin>1980-01-01T00:00:00.000000Z</begin>
+      </TimeSpan>
+    </Folder>
+    <Folder>
+      <name>GE</name>
+      <open>1</open>
+      <description>Network GE (GEOFON)
+	Station Count: None/None (Selected/Total)
+	1980-01-01T00:00:00.000000Z - --
+	Access: open
+	Contains:
+		Stations (1):
+			GE.BOAB (INETER/GEOFON Station Boaco, Nicaragua)
+		Channels (12):
+			GE.BOAB..BHE, GE.BOAB..BHN, GE.BOAB..BHZ, GE.BOAB..HHE,
+			GE.BOAB..HHN, GE.BOAB..HHZ, GE.BOAB..LHE, GE.BOAB..LHN,
+			GE.BOAB..LHZ, GE.BOAB..VHE, GE.BOAB..VHN, GE.BOAB..VHZ</description>
+      <Style>
+        <ListStyle>
+          <listItemType>check</listItemType>
+          <bgColor>00ffff</bgColor>
+          <maxSnippetLines>5</maxSnippetLines>
+        </ListStyle>
+      </Style>
+      <Placemark>
+        <name>GE.BOAB</name>
+        <styleUrl>#station_10</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-85.665901,12.449300,0</coordinates>
+        </Point>
+        <description>Station BOAB (INETER/GEOFON Station Boaco, Nicaragua)
+	Station Code: BOAB
+	Channel Count: None/None (Selected/Total)
+	2008-01-15T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 12.45, Longitude: -85.67, Elevation: 381.0 m
+	Available Channels:
+		BOAB..BHE, BOAB..BHN, BOAB..BHZ, BOAB..HHE, BOAB..HHN, BOAB..HHZ,
+		BOAB..LHE, BOAB..LHN, BOAB..LHZ, BOAB..VHE, BOAB..VHN, BOAB..VHZ</description>
+        <TimeSpan>
+          <begin>2008-01-15T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <TimeSpan>
+        <begin>1980-01-01T00:00:00.000000Z</begin>
+      </TimeSpan>
+    </Folder>
+    <Folder>
+      <name>IU</name>
+      <open>1</open>
+      <description>Network IU (Global Seismograph Network (GSN - IRIS/USGS))
+	Station Count: None/None (Selected/Total)
+	1980-01-01T00:00:00.000000Z - --
+	Access: open
+	Contains:
+		Stations (2):
+			IU.OTAV (Otavalo, Ecuador)
+			IU.PAYG (Puerto Ayora, Galapagos Islands)
+		Channels (6):
+			IU.OTAV.00.BH1, IU.OTAV.00.BH2, IU.OTAV.00.BHZ, IU.PAYG.00.BH1,
+			IU.PAYG.00.BH2, IU.PAYG.00.BHZ</description>
+      <Style>
+        <ListStyle>
+          <listItemType>check</listItemType>
+          <bgColor>00ffff</bgColor>
+          <maxSnippetLines>5</maxSnippetLines>
+        </ListStyle>
+      </Style>
+      <Placemark>
+        <name>IU.OTAV</name>
+        <styleUrl>#station_11</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-78.450800,0.237600,0</coordinates>
+        </Point>
+        <description>Station OTAV (Otavalo, Ecuador)
+	Station Code: OTAV
+	Channel Count: None/None (Selected/Total)
+	2009-04-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 0.24, Longitude: -78.45, Elevation: 3510.0 m
+	Available Channels:
+		OTAV.00.BH1, OTAV.00.BH2, OTAV.00.BHZ</description>
+        <TimeSpan>
+          <begin>2009-04-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>IU.PAYG</name>
+        <styleUrl>#station_11</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-90.286100,-0.674200,0</coordinates>
+        </Point>
+        <description>Station PAYG (Puerto Ayora, Galapagos Islands)
+	Station Code: PAYG
+	Channel Count: None/None (Selected/Total)
+	2010-05-05T00:00:00.000000Z - 
+	Access: open 
+	Latitude: -0.67, Longitude: -90.29, Elevation: 270.0 m
+	Available Channels:
+		PAYG.00.BH1, PAYG.00.BH2, PAYG.00.BHZ</description>
+        <TimeSpan>
+          <begin>2010-05-05T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <TimeSpan>
+        <begin>1980-01-01T00:00:00.000000Z</begin>
+      </TimeSpan>
+    </Folder>
+    <Folder>
+      <name>TC</name>
+      <open>1</open>
+      <description>Network TC (RSN)
+	Station Count: None/None (Selected/Total)
+	1980-01-01T00:00:00.000000Z - --
+	Access: open
+	Contains:
+		Stations (20):
+			TC.ARE1 (Volcan Arenal, Fortuna, Alajuela, Costa Rica)
+			TC.CVT1 (Volcan Turrialba, Cartago, Costa Rica)
+			TC.CVTR (Volcan Turrialba, Cartago)
+			TC.DRK0 (Cerro Durika Talamanca, Buenos Aires, Puntarenas)
+			TC.EGUA (Earth, Guacimo, Limon)
+			TC.ICCO (Isla del Coco, Puntarenas)
+			TC.ICR3 (Volcan Irazu, Cartago)
+			TC.LCR2 (Finca La Lucha, San Jose)
+			TC.MARA (Finca Maravilla, Hojancha, Guanacaste)
+			TC.PIRO (PIRO, Osa, Puntarenas)
+			TC.PLVR (Palo Verde, Bagaces, Guanacaste)
+			TC.PTJ1 (Puerto Jimenez, Puntarenas)
+			TC.RGM0 (Gandoca, Puntarenas)
+			TC.SJS1 (Universidad de Costa Rica, Montes de Oca, San Jose)
+			TC.SRA1 (San Ramon, Alajuela)
+			TC.TCS0 (Tacares, Grecia, Alajuela)
+			TC.TRB1 (Colegio de Turrubares, San Jose)
+			TC.TRT1 (Linda vista de Cariari, Tortuguero, Limon)
+			TC.TRT2 (Tortugero, Limon)
+			TC.VPS5 (Volcan Poas, Alajuela)
+		Channels (60):
+			TC.ARE1..HHE, TC.ARE1..HHN, TC.ARE1..HHZ, TC.CVT1..HHE,
+			TC.CVT1..HHN, TC.CVT1..HHZ, TC.CVTR..HHE, TC.CVTR..HHN,
+			TC.CVTR..HHZ, TC.DRK0..HHE, TC.DRK0..HHN, TC.DRK0..HHZ,
+			TC.EGUA..HHE, TC.EGUA..HHN, TC.EGUA..HHZ, TC.ICCO..HHE,
+			TC.ICCO..HHN, TC.ICCO..HHZ, TC.ICR3..HHE, TC.ICR3..HHN,
+			TC.ICR3..HHZ, TC.LCR2..HHE, TC.LCR2..HHN, TC.LCR2..HHZ,
+			TC.MARA..HHE, TC.MARA..HHN, TC.MARA..HHZ, TC.PIRO..HHE,
+			TC.PIRO..HHN, TC.PIRO..HHZ, TC.PLVR..SHE, TC.PLVR..SHN,
+			TC.PLVR..SHZ, TC.PTJ1..HHE, TC.PTJ1..HHN, TC.PTJ1..HHZ,
+			TC.RGM0..HHE, TC.RGM0..HHN, TC.RGM0..HHZ, TC.SJS1..HHE,
+			TC.SJS1..HHN, TC.SJS1..HHZ, TC.SRA1..HHE, TC.SRA1..HHN,
+			TC.SRA1..HHZ, TC.TCS0..HHE, TC.TCS0..HHN, TC.TCS0..HHZ,
+			TC.TRB1..HHE, TC.TRB1..HHN, TC.TRB1..HHZ, TC.TRT1..BHE,
+			TC.TRT1..BHN, TC.TRT1..BHZ, TC.TRT2..HHE, TC.TRT2..HHN,
+			TC.TRT2..HHZ, TC.VPS5..HHE, TC.VPS5..HHN, TC.VPS5..HHZ</description>
+      <Style>
+        <ListStyle>
+          <listItemType>check</listItemType>
+          <bgColor>00ffff</bgColor>
+          <maxSnippetLines>5</maxSnippetLines>
+        </ListStyle>
+      </Style>
+      <Placemark>
+        <name>TC.ARE1</name>
+        <styleUrl>#station_12</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-84.719000,10.461000,0</coordinates>
+        </Point>
+        <description>Station ARE1 (Volcan Arenal, Fortuna, Alajuela, Costa Rica)
+	Station Code: ARE1
+	Channel Count: None/None (Selected/Total)
+	2000-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 10.46, Longitude: -84.72, Elevation: 800.0 m
+	Available Channels:
+		ARE1..HHE, ARE1..HHN, ARE1..HHZ</description>
+        <TimeSpan>
+          <begin>2000-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>TC.CVT1</name>
+        <styleUrl>#station_12</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-83.759260,10.014618,0</coordinates>
+        </Point>
+        <description>Station CVT1 (Volcan Turrialba, Cartago, Costa Rica)
+	Station Code: CVT1
+	Channel Count: None/None (Selected/Total)
+	2014-11-06T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 10.01, Longitude: -83.76, Elevation: 3120.0 m
+	Available Channels:
+		CVT1..HHE, CVT1..HHN, CVT1..HHZ</description>
+        <TimeSpan>
+          <begin>2014-11-06T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>TC.CVTR</name>
+        <styleUrl>#station_12</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-83.759330,10.020000,0</coordinates>
+        </Point>
+        <description>Station CVTR (Volcan Turrialba, Cartago)
+	Station Code: CVTR
+	Channel Count: None/None (Selected/Total)
+	2000-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 10.02, Longitude: -83.76, Elevation: 3225.0 m
+	Available Channels:
+		CVTR..HHE, CVTR..HHN, CVTR..HHZ</description>
+        <TimeSpan>
+          <begin>2000-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>TC.DRK0</name>
+        <styleUrl>#station_12</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-83.245000,9.263170,0</coordinates>
+        </Point>
+        <description>Station DRK0 (Cerro Durika Talamanca, Buenos Aires, Puntarenas)
+	Station Code: DRK0
+	Channel Count: None/None (Selected/Total)
+	2000-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 9.26, Longitude: -83.25, Elevation: 1468.0 m
+	Available Channels:
+		DRK0..HHE, DRK0..HHN, DRK0..HHZ</description>
+        <TimeSpan>
+          <begin>2000-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>TC.EGUA</name>
+        <styleUrl>#station_12</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-83.589685,10.212277,0</coordinates>
+        </Point>
+        <description>Station EGUA (Earth, Guacimo, Limon)
+	Station Code: EGUA
+	Channel Count: None/None (Selected/Total)
+	2014-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 10.21, Longitude: -83.59, Elevation: 46.0 m
+	Available Channels:
+		EGUA..HHE, EGUA..HHN, EGUA..HHZ</description>
+        <TimeSpan>
+          <begin>2014-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>TC.ICCO</name>
+        <styleUrl>#station_12</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-87.056600,5.543670,0</coordinates>
+        </Point>
+        <description>Station ICCO (Isla del Coco, Puntarenas)
+	Station Code: ICCO
+	Channel Count: None/None (Selected/Total)
+	2000-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 5.54, Longitude: -87.06, Elevation: 10.0 m
+	Available Channels:
+		ICCO..HHE, ICCO..HHN, ICCO..HHZ</description>
+        <TimeSpan>
+          <begin>2000-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>TC.ICR3</name>
+        <styleUrl>#station_12</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-83.836830,9.980000,0</coordinates>
+        </Point>
+        <description>Station ICR3 (Volcan Irazu, Cartago)
+	Station Code: ICR3
+	Channel Count: None/None (Selected/Total)
+	2013-12-10T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 9.98, Longitude: -83.84, Elevation: 3370.0 m
+	Available Channels:
+		ICR3..HHE, ICR3..HHN, ICR3..HHZ</description>
+        <TimeSpan>
+          <begin>2013-12-10T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>TC.LCR2</name>
+        <styleUrl>#station_12</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-84.005330,9.741500,0</coordinates>
+        </Point>
+        <description>Station LCR2 (Finca La Lucha, San Jose)
+	Station Code: LCR2
+	Channel Count: None/None (Selected/Total)
+	2000-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 9.74, Longitude: -84.01, Elevation: 1704.0 m
+	Available Channels:
+		LCR2..HHE, LCR2..HHN, LCR2..HHZ</description>
+        <TimeSpan>
+          <begin>2000-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>TC.MARA</name>
+        <styleUrl>#station_12</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-85.425500,10.019500,0</coordinates>
+        </Point>
+        <description>Station MARA (Finca Maravilla, Hojancha, Guanacaste)
+	Station Code: MARA
+	Channel Count: None/None (Selected/Total)
+	2000-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 10.02, Longitude: -85.43, Elevation: 629.0 m
+	Available Channels:
+		MARA..HHE, MARA..HHN, MARA..HHZ</description>
+        <TimeSpan>
+          <begin>2000-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>TC.PIRO</name>
+        <styleUrl>#station_12</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-83.319500,8.410900,0</coordinates>
+        </Point>
+        <description>Station PIRO (PIRO, Osa, Puntarenas)
+	Station Code: PIRO
+	Channel Count: None/None (Selected/Total)
+	2000-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 8.41, Longitude: -83.32, Elevation: 235.0 m
+	Available Channels:
+		PIRO..HHE, PIRO..HHN, PIRO..HHZ</description>
+        <TimeSpan>
+          <begin>2000-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>TC.PLVR</name>
+        <styleUrl>#station_12</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-85.350670,10.347500,0</coordinates>
+        </Point>
+        <description>Station PLVR (Palo Verde, Bagaces, Guanacaste)
+	Station Code: PLVR
+	Channel Count: None/None (Selected/Total)
+	2000-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 10.35, Longitude: -85.35, Elevation: -83.0 m
+	Available Channels:
+		PLVR..SHE, PLVR..SHN, PLVR..SHZ</description>
+        <TimeSpan>
+          <begin>2000-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>TC.PTJ1</name>
+        <styleUrl>#station_12</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-83.302300,8.535670,0</coordinates>
+        </Point>
+        <description>Station PTJ1 (Puerto Jimenez, Puntarenas)
+	Station Code: PTJ1
+	Channel Count: None/None (Selected/Total)
+	2000-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 8.54, Longitude: -83.30, Elevation: 20.0 m
+	Available Channels:
+		PTJ1..HHE, PTJ1..HHN, PTJ1..HHZ</description>
+        <TimeSpan>
+          <begin>2000-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>TC.RGM0</name>
+        <styleUrl>#station_12</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-82.607400,9.590200,0</coordinates>
+        </Point>
+        <description>Station RGM0 (Gandoca, Puntarenas)
+	Station Code: RGM0
+	Channel Count: None/None (Selected/Total)
+	2000-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 9.59, Longitude: -82.61, Elevation: 17.0 m
+	Available Channels:
+		RGM0..HHE, RGM0..HHN, RGM0..HHZ</description>
+        <TimeSpan>
+          <begin>2000-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>TC.SJS1</name>
+        <styleUrl>#station_12</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-84.054000,9.939000,0</coordinates>
+        </Point>
+        <description>Station SJS1 (Universidad de Costa Rica, Montes de Oca, San Jose)
+	Station Code: SJS1
+	Channel Count: None/None (Selected/Total)
+	2000-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 9.94, Longitude: -84.05, Elevation: 1226.0 m
+	Available Channels:
+		SJS1..HHE, SJS1..HHN, SJS1..HHZ</description>
+        <TimeSpan>
+          <begin>2000-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>TC.SRA1</name>
+        <styleUrl>#station_12</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-84.480330,10.085000,0</coordinates>
+        </Point>
+        <description>Station SRA1 (San Ramon, Alajuela)
+	Station Code: SRA1
+	Channel Count: None/None (Selected/Total)
+	2000-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 10.09, Longitude: -84.48, Elevation: 1101.0 m
+	Available Channels:
+		SRA1..HHE, SRA1..HHN, SRA1..HHZ</description>
+        <TimeSpan>
+          <begin>2000-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>TC.TCS0</name>
+        <styleUrl>#station_12</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-84.299800,10.042100,0</coordinates>
+        </Point>
+        <description>Station TCS0 (Tacares, Grecia, Alajuela)
+	Station Code: TCS0
+	Channel Count: None/None (Selected/Total)
+	2000-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 10.04, Longitude: -84.30, Elevation: 902.0 m
+	Available Channels:
+		TCS0..HHE, TCS0..HHN, TCS0..HHZ</description>
+        <TimeSpan>
+          <begin>2000-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>TC.TRB1</name>
+        <styleUrl>#station_12</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-84.448330,9.913830,0</coordinates>
+        </Point>
+        <description>Station TRB1 (Colegio de Turrubares, San Jose)
+	Station Code: TRB1
+	Channel Count: None/None (Selected/Total)
+	2000-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 9.91, Longitude: -84.45, Elevation: 369.0 m
+	Available Channels:
+		TRB1..HHE, TRB1..HHN, TRB1..HHZ</description>
+        <TimeSpan>
+          <begin>2000-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>TC.TRT1</name>
+        <styleUrl>#station_12</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-83.699263,10.598402,0</coordinates>
+        </Point>
+        <description>Station TRT1 (Linda vista de Cariari, Tortuguero, Limon)
+	Station Code: TRT1
+	Channel Count: None/None (Selected/Total)
+	2014-06-09T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 10.60, Longitude: -83.70, Elevation: 63.0 m
+	Available Channels:
+		TRT1..BHE, TRT1..BHN, TRT1..BHZ</description>
+        <TimeSpan>
+          <begin>2014-06-09T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>TC.TRT2</name>
+        <styleUrl>#station_12</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-83.735260,10.557360,0</coordinates>
+        </Point>
+        <description>Station TRT2 (Tortugero, Limon)
+	Station Code: TRT2
+	Channel Count: None/None (Selected/Total)
+	2013-12-17T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 10.56, Longitude: -83.74, Elevation: 46.0 m
+	Available Channels:
+		TRT2..HHE, TRT2..HHN, TRT2..HHZ</description>
+        <TimeSpan>
+          <begin>2013-12-17T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>TC.VPS5</name>
+        <styleUrl>#station_12</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-84.232000,10.190330,0</coordinates>
+        </Point>
+        <description>Station VPS5 (Volcan Poas, Alajuela)
+	Station Code: VPS5
+	Channel Count: None/None (Selected/Total)
+	2000-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 10.19, Longitude: -84.23, Elevation: 2601.0 m
+	Available Channels:
+		VPS5..HHE, VPS5..HHN, VPS5..HHZ</description>
+        <TimeSpan>
+          <begin>2000-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <TimeSpan>
+        <begin>1980-01-01T00:00:00.000000Z</begin>
+      </TimeSpan>
+    </Folder>
+    <Folder>
+      <name>PC</name>
+      <open>1</open>
+      <description>Network PC (ACP)
+	Station Count: None/None (Selected/Total)
+	1980-01-01T00:00:00.000000Z - --
+	Access: open
+	Contains:
+		Stations (7):
+			PC.CAZU (Cerro Azul)
+			PC.CGOR (Cerro Gordo)
+			PC.FLAM (Isla Flamenco)
+			PC.FRIJ (Finca Ines Madrigal, El Jiral)
+			PC.MLIR (Isla Monte Lirio, Lago Gat.n)
+			PC.PINA (Finca Laurentino Cortizo)
+			PC.ZANG (Finca Agustin Diaz, Zanguenga)
+		Channels (24):
+			PC.CAZU..HHE, PC.CAZU..HHN, PC.CAZU..HHZ, PC.CAZU..HNE,
+			PC.CAZU..HNN, PC.CAZU..HNZ, PC.CGOR..EHE, PC.CGOR..EHN,
+			PC.CGOR..EHZ, PC.FLAM..EHE, PC.FLAM..EHN, PC.FLAM..EHZ,
+			PC.FRIJ..EHE, PC.FRIJ..EHN, PC.FRIJ..EHZ, PC.MLIR..EHE,
+			PC.MLIR..EHN, PC.MLIR..EHZ, PC.PINA..EHE, PC.PINA..EHN,
+			PC.PINA..EHZ, PC.ZANG..EHE, PC.ZANG..EHN, PC.ZANG..EHZ</description>
+      <Style>
+        <ListStyle>
+          <listItemType>check</listItemType>
+          <bgColor>00ffff</bgColor>
+          <maxSnippetLines>5</maxSnippetLines>
+        </ListStyle>
+      </Style>
+      <Placemark>
+        <name>PC.CAZU</name>
+        <styleUrl>#station_13</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-79.407825,9.238283,0</coordinates>
+        </Point>
+        <description>Station CAZU (Cerro Azul)
+	Station Code: CAZU
+	Channel Count: None/None (Selected/Total)
+	2014-01-01T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 9.24, Longitude: -79.41, Elevation: 940.0 m
+	Available Channels:
+		CAZU..HHE, CAZU..HHN, CAZU..HHZ, CAZU..HNE, CAZU..HNN, CAZU..HNZ</description>
+        <TimeSpan>
+          <begin>2014-01-01T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>PC.CGOR</name>
+        <styleUrl>#station_13</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-79.665459,9.038670,0</coordinates>
+        </Point>
+        <description>Station CGOR (Cerro Gordo)
+	Station Code: CGOR
+	Channel Count: None/None (Selected/Total)
+	2012-07-07T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 9.04, Longitude: -79.67, Elevation: 306.0 m
+	Available Channels:
+		CGOR..EHE, CGOR..EHN, CGOR..EHZ</description>
+        <TimeSpan>
+          <begin>2012-07-07T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>PC.FLAM</name>
+        <styleUrl>#station_13</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-79.520897,8.907985,0</coordinates>
+        </Point>
+        <description>Station FLAM (Isla Flamenco)
+	Station Code: FLAM
+	Channel Count: None/None (Selected/Total)
+	2009-09-05T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 8.91, Longitude: -79.52, Elevation: 104.0 m
+	Available Channels:
+		FLAM..EHE, FLAM..EHN, FLAM..EHZ</description>
+        <TimeSpan>
+          <begin>2009-09-05T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>PC.FRIJ</name>
+        <styleUrl>#station_13</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-79.715792,9.220089,0</coordinates>
+        </Point>
+        <description>Station FRIJ (Finca Ines Madrigal, El Jiral)
+	Station Code: FRIJ
+	Channel Count: None/None (Selected/Total)
+	2007-03-28T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 9.22, Longitude: -79.72, Elevation: 350.0 m
+	Available Channels:
+		FRIJ..EHE, FRIJ..EHN, FRIJ..EHZ</description>
+        <TimeSpan>
+          <begin>2007-03-28T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>PC.MLIR</name>
+        <styleUrl>#station_13</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-79.853308,9.241150,0</coordinates>
+        </Point>
+        <description>Station MLIR (Isla Monte Lirio, Lago Gat.n)
+	Station Code: MLIR
+	Channel Count: None/None (Selected/Total)
+	2007-04-12T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 9.24, Longitude: -79.85, Elevation: 34.0 m
+	Available Channels:
+		MLIR..EHE, MLIR..EHN, MLIR..EHZ</description>
+        <TimeSpan>
+          <begin>2007-04-12T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>PC.PINA</name>
+        <styleUrl>#station_13</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-80.063586,9.253972,0</coordinates>
+        </Point>
+        <description>Station PINA (Finca Laurentino Cortizo)
+	Station Code: PINA
+	Channel Count: None/None (Selected/Total)
+	2007-03-15T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 9.25, Longitude: -80.06, Elevation: 0.0 m
+	Available Channels:
+		PINA..EHE, PINA..EHN, PINA..EHZ</description>
+        <TimeSpan>
+          <begin>2007-03-15T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <Placemark>
+        <name>PC.ZANG</name>
+        <styleUrl>#station_13</styleUrl>
+        <color>ff2859b1</color>
+        <Point>
+          <coordinates>-79.866739,8.956114,0</coordinates>
+        </Point>
+        <description>Station ZANG (Finca Agustin Diaz, Zanguenga)
+	Station Code: ZANG
+	Channel Count: None/None (Selected/Total)
+	2007-03-15T00:00:00.000000Z - 
+	Access: open 
+	Latitude: 8.96, Longitude: -79.87, Elevation: 110.0 m
+	Available Channels:
+		ZANG..EHE, ZANG..EHN, ZANG..EHZ</description>
+        <TimeSpan>
+          <begin>2007-03-15T00:00:00.000000Z</begin>
+        </TimeSpan>
+      </Placemark>
+      <TimeSpan>
+        <begin>1980-01-01T00:00:00.000000Z</begin>
+      </TimeSpan>
+    </Folder>
+  </Document>
+</kml>
